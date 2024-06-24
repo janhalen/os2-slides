@@ -33,8 +33,6 @@ På besøg i produkterne
 ![bg blur:1px brightness:0.5 opacity:0.4](https://images.pexels.com/photos/23964492/pexels-photo-23964492/free-photo-of-exterior-of-the-guggenheim-museum-bilbao.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ![bg blur:1px brightness:0.4](https://images.pexels.com/photos/20841404/pexels-photo-20841404/free-photo-of-modern-airport-in-hongkong.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-
-
 ### Manglende sammenhæng :arrow_down:
 
 Standarder | Målbilleder | Strukturer | Processer
