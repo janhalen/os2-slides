@@ -28,6 +28,11 @@ Fælleskabet har fået en Enterprise Arkitekt. Både produkterne bestyrelsen og 
 ![bg blur:1px brightness:0.5 fi](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 #
+![bg blur:1px opacity:0.4](https://images.pexels.com/photos/20870044/pexels-photo-20870044/free-photo-of-facade-of-the-court-of-appeal-of-montpellier.jpeg)
+![bg blur:1px opacity:0.4](https://images.pexels.com/photos/23964492/pexels-photo-23964492/free-photo-of-exterior-of-the-guggenheim-museum-bilbao.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg blur:1px opacity:0.4](https://images.pexels.com/photos/20841404/pexels-photo-20841404/free-photo-of-modern-airport-in-hongkong.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+
 
 ### Stor variation i :arrow_down:
 
@@ -46,33 +51,54 @@ Standarder | Målbilleder | Strukturer | Processer
 - Genbrug: Der er ikke meget genbrug, produkterne er samlede omkring enkelte leverandørers ydelser der for det meste leverer store monolitter
 -->
 
-# Igangværende indsatser
+#
+![bg opacity:0.7](https://images.unsplash.com/photo-1535214650615-40b65942085a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## EN BRO OVER GABET
+
+### Missionsdrevet vs Indtægtsdrevet
+Operationelle tiltag
 <!-- Det oprerationelle -->
 
 #
-### Proffesionalisering | Lavere barrierer
-Revision af governance
+![bg left:45% opacity:0.7](https://images.unsplash.com/photo-1535214650615-40b65942085a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+#### Proffesionalisering
+<!-- Vi gik i gang med at håndhæve governance, produkterne var ikke klar -->
+Revision af governance<!-- Foregår i fuld transparens -->
 💠
-<!-- Foregår i fuld transparens -->
-Skabeloner
-<!-- Hurtig igangsætning - ensartede resultater-->
+Vis vejen med skabeloner<!-- Hurtig igangsætning - ensartede resultater-->
 #
+
+![bg left:40%](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ### Forbedrede tilbud
 Fælleskomponenter til alle OS2produkter
 💠
-Åben arkitekturrådgivning og dialog med arbejdsgrupper
-
-# Kommende indsatser
+Rådgivning om standarder og risikominimering
+💠
+Afdækning af teknisk gæld og mitigerende tiltag
 
 #
-### Proffesionalisering | Talentudvikling
+> *"Many organizations invest lots of time and effort in adopting technologies, but fail to achieve critical software delivery outcomes, due to limitations imposed by architecture."*
 
-Tydelig livscyklus  | Årshjul for produkter<!--Faste besøg i produkterne, rådgivning og governance, Produktstatus -->
+###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
+![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+# Kommende indsatser
+![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+
+#
+![bg opacity:0.7 left:42% ](https://images.pexels.com/photos/5383771/pexels-photo-5383771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+#### Talentudvikling
+
+Tydelig livscyklus
+Årshjul for produkter<!--Faste besøg i produkterne, rådgivning og governance, Produktstatus -->
 💠
 Arbejdstitel "Open Source kørekortet"
 💠
-Åbne governance møder | Tværgående vidensdeling 
+Åbne governance møder
+Tværgående vidensdeling 
 
 
 
