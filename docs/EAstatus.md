@@ -22,7 +22,7 @@ Fælleskabet har fået en Enterprise Arkitekt. Både produkterne bestyrelsen og 
 
 - Jeg har været inviteret ind i en delmængde af produkterne - ad-hoc
 
-- Jeg har opdaget nogle ting-->
+- Jeg har opdaget nogle ting efter mit besøg i produkterne-->
 
 # 🔍 Findings
 På besøg i produkterne
