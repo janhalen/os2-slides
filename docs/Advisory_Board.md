@@ -3,12 +3,30 @@ marp: true
 footer: ![w:200 invert](../img/OS2_logo_cmyk.svg)
 theme: uncover
 transition: reveal
-class: 
- - invert
+
 headingDivider: 1
 paginate: false
 ---
 #
+![bg left:33% h:650](../docs/image/Advisory_Board/Experience.png)
+
+### [JAN MAACK KJERBYE]()
+*Enterprise Architect*
+
+> Jeg brænder for en mere fair og robust offentlig sektor
+
+
+<!--
+Bred erfaring med værdiskabelse fra både private og offentlige orgs.
+
+Jeg brænder for en mere fair og robust offentlig sektor
+
+-->
+
+#
+<!--
+class: invert
+-->
 
 ![bg blur:1px brightness:0.7](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <!-- Hvordan adskiller vi os fra et "almindeligt" software produkt -->
@@ -46,30 +64,47 @@ Til at vælge det der er vigtigt
 
 
 
+
+# ![bg blur:1px brightness:0.6](https://images.pexels.com/photos/12324202/pexels-p#
+<!--
+class: null
+-->
+
+![bg w:280](https://joinup.ec.europa.eu/sites/default/files/styles/wysiwyg_half_width/public/inline-images/2019_11_07_Entete-Agenda-Bluehats.jpg?itok=bf0j-OxD)
+
+![bg w:390px h:500px ](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg)
+
+![bg w:250px](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/foundation-for-public-code.png)
+
+![ w:350px h:190px ](https://github.com/oss-fund/monetization-platforms/blob/master/images/sovereign-tech-fund.png?raw=true)
+
+![w:200px](https://joinup.ec.europa.eu/sites/default/files/2023-09/A_OSPO%2B%2B%20Network_logo.png)
+
+![w:180px h:500](https://digitalpublicgoods.net/wp-content/themes/dpga/images/logo.svg)hoto-12324202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+## Vi styrer efter moderne best practice
+
+Vi skal ikke opfinde hjulet igen
+
+Der er etableret robuste åbne standarder
+
 #
 ![bg brightness:0.7](https://images.unsplash.com/photo-1542621334-a254cf47733d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ## Operationalisering
-
-Vi skal ikke opfinde hjulet igen
-Der er etableret robuste internationale standarder
-[CloudNCF]() 
-
-#
-
 Rådgivning | Tekniske skabeloner | Løbende revision
-
-# Vi styrer efter moderne best practice
-Internationale standarder 
-
-Exit strategi by design - not by afterthought
 
 #
 <!--
 class: null
 -->
+
 ![bg w:280](https://joinup.ec.europa.eu/sites/default/files/styles/wysiwyg_half_width/public/inline-images/2019_11_07_Entete-Agenda-Bluehats.jpg?itok=bf0j-OxD)
-![bg w:300px](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg)
+
+![bg w:390px h:500px ](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg)
+
 ![bg w:250px](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/foundation-for-public-code.png)
+
+![ w:350px h:190px ](https://github.com/oss-fund/monetization-platforms/blob/master/images/sovereign-tech-fund.png?raw=true)
+
 ![w:200px](https://joinup.ec.europa.eu/sites/default/files/2023-09/A_OSPO%2B%2B%20Network_logo.png)
-![bg w:180px](https://digitalpublicgoods.net/wp-content/themes/dpga/images/logo.svg)
-![top w:180px](https://digitalpublicgoods.net/wp-content/themes/dpga/images/logo.svg)
+
+![w:180px h:500](https://digitalpublicgoods.net/wp-content/themes/dpga/images/logo.svg)
