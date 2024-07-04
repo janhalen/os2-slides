@@ -28,17 +28,6 @@ Jeg brænder for en mere fair og robust offentlig sektor
 class: invert
 -->
 
-![bg blur:1px brightness:0.7](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<!-- Hvordan adskiller vi os fra et "almindeligt" software produkt -->
-
-### Styringsværktøjer
-
-##
-Åbne 
-<!-- Vi inkluderer alt det som er svært at sælge up front.
--->
-
-#
 ## Rammer
 Fælles governance
 
