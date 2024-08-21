@@ -9,11 +9,6 @@ headingDivider: 1
 paginate: false
 
 ---
-
-#
-![bg blur:1px brightness:0.6](https://images.unsplash.com/photo-1619884889432-b242fdee532a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-En sammenhængende, effektiv offentlig sektor
-
 #
 
 ![bg left blur:1px brightness:0.7](https://images.unsplash.com/photo-1649479030733-821d4dc04878?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -51,43 +46,28 @@ FREMTIDS SIKRING
 ###### **Rådgivning der sikrer produkternes fremtidige relevans, ikke kun deres nuværende effektiviet**
 
 # 
-#### HVORFOR
+![bg blur:1px brightness:0.6](https://images.unsplash.com/photo-1589262804704-c5aa9e6def89?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+HVORFOR
 
 
 ###### **National og international strategi**
 
-👥 Udbredelse
-
+👥 Udbredelse 
 📈 Professionalisering
-
 ↔️ Interoperabilitet
-
 ♻️ Genbrug 
 
 #
-#### HVORDAN
-
+HVORDAN
 
 ###### **Rammeskabelse og talentudvikling**
 
 
-![bg blur:1px brightness:0.5](https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg blur:1px brightness:0.4](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-
-
-:arrows_counterclockwise: Leverance metoder - CI/CD
-
-:cloud: Cloud Native - 15 factor app design
-
-⚙️: Operations - Containerization / clustering
-
+###### :cloud: **Design** - 15 factor app &ensp;|&ensp; 📦 **Packaging** - Containerization
+###### :arrows_counterclockwise: **Delivery** - Automated CI/CD &ensp;|&ensp; ⚙️: **Operations** - GitOps
 
 #
-![bg right blur:1px brightness:0.7](https://images.unsplash.com/photo-1445712525433-eba07da78bd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-##### ᨒ THE ROCKY ROAD
-
-![w:100 opacity:0.7](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.carlogos.org%2Flogo%2FMercedes-Benz-emblem-1926-1920x1080.png)![w:50 opacity:0.7](https://media-exp1.licdn.com/dms/image/C4D0BAQFA5p3SnyUgAA/company-logo_200_200/0?e=2159024400&v=beta&t=ZKbx-xqEPraBGEBHNcJbXYxuaeXEoYYXFxealhC2k1U)  ![w:50 opacity:0.7](https://www.capasystems.com/wp-content/uploads/2017/12/photo-4.jpg) ![w:50 opacity:0.7](https://yt3.googleusercontent.com/scpCW3MDUOaeXs73BBYvooKa1U31QdHOuc2Fr2YLjzdhuJzg4tClbArjwVlTFK1T8URumPtGpw=s900-c-k-c0x00ffffff-no-rj) ![w:100 opacity:0.7](https://actinlife.dk/wp-content/uploads/2016/05/Randers-kommune.png)
-
-<div style="font-size: 20px; color: lightblue"> Selvstændig udvikler ➡️ Operations Support ➡️ Technical manager ➡️ Product Engineer ➡️ Solution Architect
-</div>
+![bg blur:1px brightness:0.6](https://images.unsplash.com/photo-1619884889432-b242fdee532a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+En sammenhængende, effektiv offentlig sektor
