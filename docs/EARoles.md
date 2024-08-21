@@ -10,10 +10,25 @@ paginate: false
 
 ---
 #
+<!-- _footer: "jan@os2.eu" -->
+
+
+<style scoped>
+  img {
+  width:300px;
+  border-radius: 50%;
+    }
+</style>
+![bg brightness:0.2 sepia:0.6](https://s.studiobinder.com/wp-content/uploads/2019/08/What-is-Deep-Depth-of-Field-Deep-Focus-Shot-in-Photography-Feature-StudioBinder.jpg)
+
+![44% opacity:80% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )  [JAN MAACK KJERBYE]()
+>Helping open source communities adapt to technological trends, change, and legislation
+
+# 
 
 ![bg left blur:1px brightness:0.7](https://images.unsplash.com/photo-1649479030733-821d4dc04878?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-Hvad laver en Enterprise Arkitekt
+Hvad laver en Enterprise Arkitekt ?
 
 #
 ![bg right fit blur:1px brightness:0.7](https://images.unsplash.com/photo-1579769696606-3a52f6d41b95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGV4dHJlbWUlMjBzcG9ydHN8ZW58MHx8MHx8fDA%3D)
