@@ -10,6 +10,35 @@ paginate: false
 
 ---
 #
+![bg blur:1px brightness:0.4](https://images.pexels.com/photos/7088524/pexels-photo-7088524.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+>What if a single weekly contribution to open-source could sustain tools that save lives every day?
+
+#
+<!-- _footer: "jan@os2.eu" -->
+
+
+<style scoped>
+  img {
+  width:200px;
+  border-radius: 50%;
+    }
+</style>
+![bg brightness:0.4 sepia:0.2](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12129091/descarga_(8).jpg)
+
+![44% opacity:80% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )  [JAN  KJERBYE]()
+
+###### **90s** CP/M - FoxPro ➤ Pascal 
+###### **00s** MS-DOS / WinNT - VB.net ➤ MS-SQL
+###### **10s** Linux - SQL ➤ Haskell
+###### **20s** Declarative - Functional - Cloud Native
+<!--
+First relaease 1992
+Finasiering af Uni - bidrage hvor man kan - TI - tung manuel driftsafdeling - automatisering
+bryder med SDK licenser rekrutteret af Leverandør - børsnoteringer - gazellepriser - Non-Cloud
+Offentlige -> Cloud - Moderne Infratruktur - Cloud Native - Arkitektur 
+-->
+
+#
 <!-- _footer: "jan@os2.eu" -->
 
 
@@ -21,8 +50,9 @@ paginate: false
 </style>
 ![bg brightness:0.2 sepia:0.6](https://s.studiobinder.com/wp-content/uploads/2019/08/What-is-Deep-Depth-of-Field-Deep-Focus-Shot-in-Photography-Feature-StudioBinder.jpg)
 
-![44% opacity:80% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )  [JAN MAACK KJERBYE]()
->Helping open source communities adapt to technological trends, change, and legislation
+![44% opacity:80% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )  [JAN  KJERBYE]()
+Enterprise Architect OS²
+
 
 # 
 
@@ -84,5 +114,5 @@ HVORDAN
 ###### :arrows_counterclockwise: **Delivery** - Automated CI/CD &ensp;|&ensp; ⚙️: **Operations** - GitOps
 
 #
-![bg blur:1px brightness:0.6](https://images.unsplash.com/photo-1619884889432-b242fdee532a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-En sammenhængende, effektiv offentlig sektor
+![bg brightness:0.2 blur:1px](https://images.pexels.com/photos/1181233/pexels-photo-1181233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+> Have you considered what impact a small regular contribution could have on the educational tools that empower the next generation of learners?
