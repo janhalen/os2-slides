@@ -12,34 +12,54 @@ paginate: false
 
 ### [JAN MAACK KJERBYE]()
 *Enterprise Architect*
+<sub>jan@os2.eu</sub>
 
-> Jeg brænder for en mere fair og robust offentlig sektor
+> Jeg brænder for en mere **åben** og **robust** offentlig sektor
 
 
 <!--
 Bred erfaring med værdiskabelse fra både private og offentlige orgs.
 
-Jeg brænder for en mere fair og robust offentlig sektor
+Jeg brænder for en mere åben og robust offentlig sektor
 
 -->
 
 
 
-
-
-# Hvorfor er genbrug så svært?
-*Lad os kigge på forudsætningerne*
+#
 <!-- class: invert -->
+<!-- _footer: "jan@os2.eu" -->
+
+
+<style scoped>
+  img {
+  width:300px;
+  border-radius: 50%;
+    }
+</style>
+![bg brightness:0.2 sepia:0.6](https://s.studiobinder.com/wp-content/uploads/2019/08/What-is-Deep-Depth-of-Field-Deep-Focus-Shot-in-Photography-Feature-StudioBinder.jpg)
+
+![44% opacity:80% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )
+Enterprise Architect OS²
+
+> Jeg brænder for en mere **åben** og **robust** offentlig sektor
+
 
 #
 
-###### 🔍 Man skal kunne finde og få adgang til softwaren
+![bg blur:1px brightness:0.7](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-###### 🔌 Det er overkommeligt at få en test instans kørende
+> _The architecture function is often seen as inseparable from essential governance and compliance requirements. However, reducing the role of architecture to a compliance function or separating it from day-to-day operations confines its value to a policing entity or an abstract function in an ivory tower."_
+> 
+> ###### [:arrow_right: McKinsey Digital Insights](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/quantum-technology-use-cases-as-fuel-for-value-in-finance)
 
-###### 🎯 Løsningen skal matche de aktuelle forretningsbehov
 
-###### ⚙️ Løsningen kan køres i produktion i myndighedens foretrukne it-miljø
+# **Hvorfor er genbrug så svært?**
+
+# Historik
+
+Ildsjæle, webportaler & udlicitation
+<!--
 
 
 #### Ingen fælles definition af "Genbrug"
@@ -84,50 +104,81 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 
     Risiko: *Vanetænkning og frygt forhindrer at den nødvendige tillid til OSS kan nåes, og projekterne strander dybt nede i it-adfelingerne*
 
-## 
+-->
+#
+> *"Many organizations invest lots of time and effort in adopting technologies, but fail to achieve critical software delivery outcomes, due to limitations imposed by architecture."*
 
-# Så hvad så?
+###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
+![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-## Den stoiske tilgang:
+# 
 
-I OS2 arbejder vi med det vi har mulighed for at ændre på 
+## **I OS2 arbejder vi**
+ med det
+   
+vi har mulighed for at ændre på 
+<!--
 
-- Udfordre vanetænkningen ved at vise vejen med gode eksempler.
+###### - Udfordre vanetænkningen ved at vise vejen med gode eksempler.
 
-- Uddannelse og rådgivning til når projekterne rammer barrierer
+###### - Uddannelse og rådgivning til når projekterne rammer barrierer
 
-- Formidling og dialog med SMV leverandører så myndighederne kan fokusere på kerneopgaven.
+###### - Formidling og dialog med SMV leverandører så myndighederne kan fokusere på kerneopgaven.
 
-- Bidrag til infrastrukturkomponenter og skabeloner, så barrierer sænkes og det bliver nemmere og hurtigere at komme i gang.
+###### - Bidrag til infrastrukturkomponenter og skabeloner, så barrierer sænkes og det bliver nemmere og hurtigere at komme i gang.
+-->
 
-# Lavpraktiske eksempler fra OS2
+#
+## Open Source
+🔽
+<div style="display: flex;">
+<div style="flex: 1; padding: 10px;">
 
-- Automatiserede processer der bygger og deler genbrugelige komponenter
-  
-  - Containerbuilds, GitHub hosting, projekt og dokumentations skabeloner
+### **Transparency**
+by
+default
+</div>
 
-- Evaluering af og bidrag til robuste, genbrugelige infrastruktur komponenter.
-  
-  - Bidrag til upstream IDP med SAML krypterings funktioner der sikrer interoperabilitet med den danske digitale infratruktur. Implementering og anvendelse internt som "Customer-0" og udbredelse til andre OS2 produkter
+<div style="flex: 1; padding: 10px;">
+ 
+### **ReUse**
+by
+default
 
+</div>
+
+</div>
+<!-- Genbrug og transparens er indbyggede factorer-->
+
+# **OS2 Indsatser 2024**
+
+
+Standarder & CI som løftestang for Genbrug
+
+Modernisering via upstream infrastruktur bidrag
+
+Transparens via docs-as-code
+
+<!--
+
+- Containerbuilds, GitHub hosting, projekt og dokumentations skabeloner
+- Bidrag til upstream IDP med SAML krypterings funktioner der sikrer interoperabilitet med den danske digitale infratruktur. Implementering og anvendelse internt som "Customer-0" og udbredelse til andre OS2 produkter
 - Bidrag til ensartet, søgbare tekniske dokumentationsportaler via "docs-as code" principper og automatisering
 
-# Takeaways
+-->
 
-1. Stil krav om at løsninger består af kode der udvikles åbent og versionsstyres i git og at alle kode-bidrag gøres offentligt tilgængeligt via GitHub, GitLab eller lign.
+# **TAKE AWAYs**
 
-2. Invester i et Open Source program-kontor der kan hjælpe med at styre processer og portefølje. OS2 har tilbudt disse ydelser siden 2012 og byder alle offentlige myndigeheder velkommen.
+# **INSISTER**
+ <sub> på at løsninger **skal** bestå af kode der udvikles åbent og versionsstyres i git og at alle kode-bidrag gøres offentligt tilgængeligt via GitHub, GitLab eller lign. 
+ </sub>
 
-3. Gør op med vanetænkningen der gør at Open Source evalueres kortsigtet alene på indkøbspris. 
+# **INVESTER**
+<sub> i et Open Source program-kontor der kan hjælpe med at styre processer og portefølje efter moderne åbne principper.
+</sub>
 
-4. Invester i åbne, robuste løsninger og øremærk mindst 15% af vedligeholdelses budgetterne til konsolidering af "usynlige" infrastrukturkomponenter. 
+# **BUDGETTER**
+<sub> med konsolidering og vedligehold af "usynlige" infrastrukturkomponenter. </sub>
 
-![bg blur:1px brightness:0.7](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<!-- Hvordan adskiller vi os fra et "almindeligt" software produkt -->
-
-### OS2 er en missionsdreven organisation
-##
-Mindre glamour - stærkere leverancer
-<!-- Vi inkluderer alt det som er svært at sælge up front.
-Mindre glamour, mere leverance
-Ingen investorer, intet krav om kommercielt afkast-->
+# **GØR OP**
+<sub> med vanetænkningen der gør at Open Source evalueres kortsigtet alene på indkøbspris. Kig på de langsigtede omkostninger</sub> 
