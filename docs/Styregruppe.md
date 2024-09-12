@@ -58,7 +58,7 @@ Til at vælge det der er vigtigt
 
 #
 <!--
-header: ![w:175](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg) ![h:90](https://landscape.cncf.io/logos/0467938e71483d7b6fd46333527eb95ffd377bd90f8a9109ec172b45a1227d7e.svg) ![h:110px brightness:0.9](https://www.linuxfoundation.org/hs-fs/hubfs/openssf-stacked-color.png?width=266&height=394&name=openssf-stacked-color.png) ![invert](https://linuxfoundation.eu/hubfs/lf-Europe-white%201.svg) ![w:50](https://publiccode.net/img/logo-symbol-10@2x.png) ![w:110](https://todogroup.org/img/todo-logo-on-white.svg)
+header: ![w:175](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg) &nbsp; ![h:90 brightness:0.2](https://landscape.cncf.io/logos/0467938e71483d7b6fd46333527eb95ffd377bd90f8a9109ec172b45a1227d7e.svg) &nbsp; ![h:110px brightness:0.1](https://www.linuxfoundation.org/hs-fs/hubfs/openssf-stacked-color.png?width=266&height=394&name=openssf-stacked-color.png) &nbsp; ![invert](https://linuxfoundation.eu/hubfs/lf-Europe-white%201.svg)  &nbsp; &nbsp; ![w:50 ](https://publiccode.net/img/logo-symbol-10@2x.png) &nbsp; &nbsp;  ![w:110](https://todogroup.org/img/todo-logo-on-white.svg)
 -->
 ![bg brightness:0.5](https://images.unsplash.com/photo-1542621334-a254cf47733d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
