@@ -110,7 +110,16 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 
 ###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
 ![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 #
+
+<p style="font-size: 84px; color: white; position: relative; display: inline-block;">
+  0 - Fejls kultur
+  <span style="position: absolute; left: 200px; right: 200px; top: 52%; height: 12px; background-color: #8B0000;"></span>
+</p>
+
+#
+
 Hvis du afventer indtil alting er perfekt og feature complete.. så misser du bussen
 
 Expect errors, failures, breakdowns.. but we do them in test, not on prod
