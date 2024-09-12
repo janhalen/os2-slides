@@ -110,6 +110,10 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 
 ###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
 ![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+#
+Hvis du afventer indtil alting er perfekt og feature complete.. så misser du bussen
+
+Expect errors, failures, breakdowns.. but we do them in test, not on prod
 
 # 
 
