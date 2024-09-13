@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: ![w:200 invert](../img/OS2_logo_cmyk.svg)
+footer: ![w:200 invert brightness:10 opacity:0.6](../img/OS2_logo_cmyk.svg)
 theme: uncover
 transition: reveal
 
@@ -8,13 +8,19 @@ headingDivider: 1
 paginate: false
 ---
 #
-![bg left:33% h:650](https://images.unsplash.com/photo-1627008767693-20498ff18ab7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg left:40% h:650 opacity:0.85](https://images.pexels.com/photos/6168066/pexels-photo-6168066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+<style scoped>
+  img {
+  width:200px;
+  border-radius: 50%;
+    }
+</style>
+![opacity:92% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )
 ### [JAN MAACK KJERBYE]()
-*Enterprise Architect*
-<sub>jan@os2.eu</sub>
+*Enterprise Architect OS²*
+<!-- _footer: "jan@os2.eu" -->
 
-> Jeg brænder for en mere **åben** og **robust** offentlig sektor
 
 
 <!--
@@ -28,43 +34,32 @@ Jeg brænder for en mere åben og robust offentlig sektor
 
 #
 <!-- class: invert -->
-<!-- _footer: "jan@os2.eu" -->
 
-
-<style scoped>
-  img {
-  width:300px;
-  border-radius: 50%;
-    }
-</style>
-![bg brightness:0.2 sepia:0.6](https://s.studiobinder.com/wp-content/uploads/2019/08/What-is-Deep-Depth-of-Field-Deep-Focus-Shot-in-Photography-Feature-StudioBinder.jpg)
-
-![44% opacity:80% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )
-Enterprise Architect OS²
-
-> Jeg brænder for en mere **åben** og **robust** offentlig sektor
-
-
-#
-
-![bg blur:1px brightness:0.7](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg blur:1px opacity:0.8 brightness:0.8](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 > _The architecture function is often seen as inseparable from essential governance and compliance requirements. However, reducing the role of architecture to a compliance function or separating it from day-to-day operations confines its value to a policing entity or an abstract function in an ivory tower."_
 > 
 > ###### [:arrow_right: McKinsey Digital Insights](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/quantum-technology-use-cases-as-fuel-for-value-in-finance)
 
 
-# **Hvorfor er genbrug så svært?**
+#
+## **GENBRUG**
+## 🔃
+aktivitet eller strategi?
 
-# Historik
+![bg brightness:0.8 sepia:0.2 blur:1px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Ildsjæle, webportaler & udlicitation
 <!--
+Der mangler en fælles forståelse af, 
+hvad begrebet **genbrug** præcist indbefatter eller hvilken værdi man forventer
 
+Der mangler en forankring
 
-#### Ingen fælles definition af "Genbrug"
+Er der noget man gør eller er det en strategisk ramme?
 
-Der er ingen enighed om, hvad begrebet "genbrug af software"" præcist indbefatter
+Properitært? En Kopi? Indkøb af samme teknologi?
+
+Hvis folks selv må definere det kommer vi ingen vegne.
 
 #### Manglende akkumuleret viden om OSS
 
@@ -109,68 +104,43 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 > *"Many organizations invest lots of time and effort in adopting technologies, but fail to achieve critical software delivery outcomes, due to limitations imposed by architecture."*
 
 ###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
-![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg brightness:0.7 opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-#
-
-<p style="font-size: 84px; color: white; position: relative; display: inline-block;">
-  0 - Fejls kultur
-  <span style="position: absolute; left: 200px; right: 200px; top: 52%; height: 12px; background-color: #8B0000;"></span>
-</p>
-
-#
-
-Hvis du afventer indtil alting er perfekt og feature complete.. så misser du bussen
-
-Expect errors, failures, breakdowns.. but we do them in test, not on prod
-
-# 
-
-## **I OS2 arbejder vi**
- med det
-   
-vi har mulighed for at ændre på 
-<!--
-
-###### - Udfordre vanetænkningen ved at vise vejen med gode eksempler.
-
-###### - Uddannelse og rådgivning til når projekterne rammer barrierer
-
-###### - Formidling og dialog med SMV leverandører så myndighederne kan fokusere på kerneopgaven.
-
-###### - Bidrag til infrastrukturkomponenter og skabeloner, så barrierer sænkes og det bliver nemmere og hurtigere at komme i gang.
+<!-- Begynd i den rigtige ende og det er ikke implemeneringen af ny teknologi.
 -->
 
-#
-## Open Source
-🔽
+# **OPEN SOURCE**
+leverer rammerne
+![bg blur:2px brightness:0.7 opacity:0.7](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 <div style="display: flex;">
 <div style="flex: 1; padding: 10px;">
 
-### **Transparency**
-by
-default
-</div>
-
-<div style="flex: 1; padding: 10px;">
- 
 ### **ReUse**
 by
 default
 
 </div>
 
+<div style="flex: 1; padding: 10px;">
+ 
+### **Transparency**
+by
+default
+
 </div>
-<!-- Genbrug og transparens er indbyggede factorer-->
 
-# **OS2 Indsatser 2024**
+</div>
+<!-- Genbrug og transparens er indbyggede faktorer-->
 
+# **HVORDAN**
+i OS²
 
-Standarder & CI som løftestang for Genbrug
+![bg blur:1px brightness:0.5 opacity:80%](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-Modernisering via upstream infrastruktur bidrag
+###### :cloud: **Design** - 15 factor app &ensp;**|**&ensp; 📦 **Packaging** - Containeris
+###### :arrows_counterclockwise: **Documentation** - Docs-as-Code &ensp;**|**&ensp; ⚙️ **Operations** - GitOps
 
-Transparens via docs-as-code
 
 <!--
 
@@ -180,18 +150,39 @@ Transparens via docs-as-code
 
 -->
 
-# **TAKE AWAYs**
+#
+![bg brightness:0.6 opacity:90%](https://images.pexels.com/photos/157879/gift-jeans-fashion-pack-157879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-# **INSISTER**
- <sub> på at løsninger **skal** bestå af kode der udvikles åbent og versionsstyres i git og at alle kode-bidrag gøres offentligt tilgængeligt via GitHub, GitLab eller lign. 
- </sub>
+</div>
+<div style="flex: 1; padding: 10px;">
+ 
+## **IDENTIFICER**
+###
+Generelle fælles behov
+###
+Eksisterende teknologi
+</div>
 
-# **INVESTER**
-<sub> i et Open Source program-kontor der kan hjælpe med at styre processer og portefølje efter moderne åbne principper.
-</sub>
+<div style="display: flex;">
 
-# **BUDGETTER**
-<sub> med konsolidering og vedligehold af "usynlige" infrastrukturkomponenter. </sub>
+<div style="flex: 1; padding: 10px;">
+ 
+## **INVESTER**
+Distribueret vedligehold
+###
+Standardisering
 
-# **GØR OP**
-<sub> med vanetænkningen der gør at Open Source evalueres kortsigtet alene på indkøbspris. Kig på de langsigtede omkostninger</sub> 
+</div>
+
+<div style="flex: 1; padding: 10px;">
+
+## **INSISTER**
+###
+
+Transparens 
+###
+Neutralt ejerskab
+
+</div>
+
+<!-- _footer: "" -->

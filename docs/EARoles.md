@@ -116,3 +116,22 @@ HVORDAN
 #
 ![bg brightness:0.2 blur:1px](https://images.pexels.com/photos/1181233/pexels-photo-1181233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 > Have you considered what impact a small regular contribution could have on the educational tools that empower the next generation of learners?
+
+#
+
+![bg sepia:0.3 brightness:0.4](https://images.pexels.com/photos/3184303/pexels-photo-3184303.jpeg)
+
+<p style="font-size: 84px; color: white; position: relative; display: inline-block;">
+  0 - Fejls kultur
+  
+  Fejl = læring 
+  <span style="position: absolute; left: 200px; right: 200px; top: 45%; height: 12px; background-color: #8B0000;"></span>
+</p>
+
+<!-- 
+Hvis du forholder dig afventede indtil du tror alting er perfekt og feature complete.. så kommer du aldrig i gang
+
+Der vil være ting der går i stykker, nedbrud og mange fejlslagne forsøg, men de bliver allesammen lavet isoleret fra produktionsmiljøerne. 
+
+Expect errors, failures, breakdowns.. but we do them in test, not on prod
+-->
