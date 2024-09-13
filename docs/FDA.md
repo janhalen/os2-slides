@@ -138,9 +138,8 @@ i OS²
 
 ![bg blur:1px brightness:0.5 opacity:80%](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-###### :cloud: **Design** - 15 factor app &ensp;**|**&ensp; 📦 **Packaging** - Containeris
+###### :cloud: **Design** - 15 factor app &ensp;**|**&ensp; 📦 **Packaging** - OCI containers
 ###### :arrows_counterclockwise: **Documentation** - Docs-as-Code &ensp;**|**&ensp; ⚙️ **Operations** - GitOps
-
 
 <!--
 
@@ -149,6 +148,39 @@ i OS²
 - Bidrag til ensartet, søgbare tekniske dokumentationsportaler via "docs-as code" principper og automatisering
 
 -->
+#
+
+###### [🧑‍🦱 contributor](https://github.com/nicolas-semaphor?tab=overview&from=2023-04-01&to=2023-04-30) - [❓ question](https://github.com/goauthentik/authentik/issues/7999) - [🎁 contribution](https://github.com/goauthentik/authentik/pull/10099)
+
+```python
+    
+     def get_encryption_key_descriptor(self) -> Optional[Element]:  # noqa: UP007
+        """Get Encryption KeyDescriptor, if enabled for the source"""
+        if self.source.encryption_kp:
+            key_descriptor = Element(f"{{{NS_SAML_METADATA}}}KeyDescriptor")
+            key_descriptor.attrib["use"] = "encryption"
+            key_info = SubElement(key_descriptor, f"{{{NS_SIGNATURE}}}KeyInfo")
+            x509_data = SubElement(key_info, f"{{{NS_SIGNATURE}}}X509Data")
+            x509_certificate = SubElement(x509_data, f"{{{NS_SIGNATURE}}}X509Certificate")
+            x509_certificate.text = strip_pem_header(
+                self.source.encryption_kp.certificate_data.replace("\r", "")
+            ).replace("\n", "")
+            return key_descriptor
+        return None
+
+    def _decrypt_response(self):
+        """Decrypt SAMLResponse EncryptedAssertion Element"""
+        manager = xmlsec.KeysManager()
+        key = xmlsec.Key.from_memory(
+            self._source.encryption_kp.key_data,
+            xmlsec.constants.KeyDataFormatPem,
+        )
+
+
+
+
+
+```
 
 #
 ![bg brightness:0.6 opacity:90%](https://images.pexels.com/photos/157879/gift-jeans-fashion-pack-157879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
