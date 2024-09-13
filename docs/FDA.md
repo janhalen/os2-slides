@@ -3,8 +3,7 @@ marp: true
 html: true
 footer: ![w:200 invert brightness:10 opacity:0.6](../img/OS2_logo_cmyk.svg)
 theme: uncover
-transition: reveal
-
+transition: swipe
 headingDivider: 1
 paginate: false
 style: |
