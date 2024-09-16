@@ -6,12 +6,7 @@ theme: uncover
 transition: swipe
 headingDivider: 1
 paginate: false
-style: |
-  .columns {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
+
 ---
 #
 ![bg left:40% h:650 opacity:0.85](https://images.pexels.com/photos/6168066/pexels-photo-6168066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
@@ -119,20 +114,10 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 leverer rammerne
 ![bg blur:2px brightness:0.7 opacity:0.7](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-<div class="columns">
-  <div>
-    <br>
-    <h3><strong>ReUse</strong></h3>
-    by<br>
-    default
-  </div>
-  <div>
-    <br>
-    <h3><strong>Transparency</strong></h3>
-    by<br>
-    default
-  </div>
-</div>
+ReUse
+by default
+Transparency
+by default
 <!-- Genbrug og transparens er indbyggede faktorer-->
 
 # **HVORDAN**
@@ -180,43 +165,18 @@ i OS²
 
 
 
-
-
 ```
 
 #
+### **IDENTIFICER** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INVESTER** &nbsp;
+Generelle fælles behov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distribueret vedligehold
+Eksisterende teknologi
+Standardisering
+### **INSISTER**
+Transparens 
+Neutralt ejerskab
 ![bg brightness:0.6 opacity:90%](https://images.pexels.com/photos/157879/gift-jeans-fashion-pack-157879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-</div>
-<div style="flex: 1; padding: 10px;">
- 
-## **IDENTIFICER**
-###
-Generelle fælles behov
-###
-Eksisterende teknologi
-</div>
+<!-- _theme: default -->
 
-<div style="display: flex;">
-
-<div style="flex: 1; padding: 10px;">
- 
-## **INVESTER**
-Distribueret vedligehold
-###
-Standardisering
-
-</div>
-
-<div style="flex: 1; padding: 10px;">
-
-## **INSISTER**
-###
-
-Transparens 
-###
-Neutralt ejerskab
-
-</div>
-
-<!-- _footer: "" -->
+<!-- _footer: "**os2.eu**" -->
