@@ -1,7 +1,7 @@
 ---
 marp: true
 html: true
-footer: ![w:200 invert brightness:10 opacity:0.6](../img/OS2_logo_cmyk.svg)
+footer: ![w:200 invert brightness:10 opacity:0.4](../img/OS2_logo_cmyk.svg)
 theme: uncover
 transition: swipe
 headingDivider: 1
@@ -46,17 +46,15 @@ Jeg brænder for en mere åben og robust offentlig sektor
 #
 ## **GENBRUG**
 ## 🔃
-aktivitet eller strategi?
+individuel aktivitet *eller* fælles strategi
 
-![bg brightness:0.8 sepia:0.2 blur:1px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <!--
+Der mangler en forankring - Er der noget man gør eller er det en strategisk ramme?
+
 Der mangler en fælles forståelse af, 
 hvad begrebet **genbrug** præcist indbefatter eller hvilken værdi man forventer
-
-Der mangler en forankring
-
-Er der noget man gør eller er det en strategisk ramme?
 
 Properitært? En Kopi? Indkøb af samme teknologi?
 
@@ -102,31 +100,31 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 
 -->
 #
-> *"Many organizations invest lots of time and effort in adopting technologies, but fail to achieve critical software delivery outcomes, due to limitations imposed by architecture."*
+## **Forudsætninger**
+for GENBRUG
+## 🔃
+###### Anbefalet af andre, nemt at tilgå, gennemskueligt, ukompliceret at dele
 
-###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
-![bg brightness:0.7 opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg brightness:0.5 opacity:0.6 sepia:0.2 blur:1px](./image/FDA/photocopy-1588176329173.webp)
 
-<!-- Begynd i den rigtige ende og det er ikke implemeneringen af ny teknologi.
--->
 
 # **OPEN SOURCE**
 leverer rammerne
 ![bg blur:2px brightness:0.7 opacity:0.7](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+###
+###### **Transparency** | **Availability** | **Uniformity**
 
-ReUse
-by default
-Transparency
-by default
+##### ReUse
+
 <!-- Genbrug og transparens er indbyggede faktorer-->
 
-# **HVORDAN**
-i OS²
+# **METODER**
 
 ![bg blur:1px brightness:0.5 opacity:80%](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ###### :cloud: **Design** - 15 factor app &ensp;**|**&ensp; 📦 **Packaging** - OCI containers
-###### :arrows_counterclockwise: **Documentation** - Docs-as-Code &ensp;**|**&ensp; ⚙️ **Operations** - GitOps
+###### :arrows_counterclockwise: **Documentation** - Docs-as-Code &ensp;**|**&ensp; ⚙️ **Deployment** - GitOps
+###### :arrow_double_up: **Maintenance** - Upstream first
 
 <!--
 
@@ -136,12 +134,10 @@ i OS²
 
 -->
 #
-
-###### [🧑‍🦱 contributor](https://github.com/nicolas-semaphor?tab=overview&from=2023-04-01&to=2023-04-30) - [❓ question](https://github.com/goauthentik/authentik/issues/7999) - [🎁 contribution](https://github.com/goauthentik/authentik/pull/10099)
-
+## **BIDRAG**
 ```python
     
-     def get_encryption_key_descriptor(self) -> Optional[Element]:  # noqa: UP007
+     def get_encryption_key_descriptor(self) -> Optional[Element]:  
         """Get Encryption KeyDescriptor, if enabled for the source"""
         if self.source.encryption_kp:
             key_descriptor = Element(f"{{{NS_SAML_METADATA}}}KeyDescriptor")
@@ -155,6 +151,7 @@ i OS²
             return key_descriptor
         return None
 
+
     def _decrypt_response(self):
         """Decrypt SAMLResponse EncryptedAssertion Element"""
         manager = xmlsec.KeysManager()
@@ -166,17 +163,22 @@ i OS²
 
 
 ```
+<!-- _footer : "[contributor](https://github.com/nicolas-semaphor?tab=overview&from=2023-04-01&to=2023-04-30) - [issue](https://github.com/goauthentik/authentik/issues/7999) - [contribution](https://github.com/goauthentik/authentik/pull/10099) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:150 invert brightness:10 opacity:0.4](../img/OS2_logo_cmyk.svg) " -->
+
+<!--
+En helt github grøn udvikler
+Et spørgsmål til et eksisterende projekt
+Et bidrag til et fælles vedligeholdt projekt
+-->
 
 #
-### **IDENTIFICER** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INVESTER** &nbsp;
-Generelle fælles behov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distribueret vedligehold
-Eksisterende teknologi
-Standardisering
+### &nbsp;&nbsp;**IDENTIFICER** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INVESTER** &nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;Generelle fælles behov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distribueret vedligehold &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Eksisterende teknologi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardisering&nbsp;&nbsp;&nbsp;
 ### **INSISTER**
-Transparens 
+Open Source
+Transparens
 Neutralt ejerskab
-![bg brightness:0.6 opacity:90%](https://images.pexels.com/photos/157879/gift-jeans-fashion-pack-157879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg brightness:0.7 sepia:0.3 blur:1.5px opacity:90%](https://images.pexels.com/photos/157879/gift-jeans-fashion-pack-157879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<!-- _theme: default -->
-
-<!-- _footer: "**os2.eu**" -->
+<!-- _footer: "" -->
