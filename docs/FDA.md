@@ -42,13 +42,59 @@ Jeg brænder for en mere åben og robust offentlig sektor
 > 
 > ###### [:arrow_right: McKinsey Digital Insights](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/quantum-technology-use-cases-as-fuel-for-value-in-finance)
 
-
-#
-## **GENBRUG**
-## 🔃
-individuel aktivitet *eller* fælles strategi
+# Forhindringer
 
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+<!--
+Vi starter lidt let med en analogi.
+Analogi: Lidt ligesom en trafikprop i et afrikansk land
+Alle har mere eller mindre samme mål
+Alle løser det individuelt, f.eks ved at sidde i egen bil
+Selv folk der har valgt at tage en bus sammen med andre sidder fast og kommer ingen vegne.
+Nogen kører måske decideret imod kørselsretningen
+Nogle bliver utålmodige og maser sig ud i nødspor eller på fortov eller helt uden for vejen og sidder fast i mudderet.
+Kaos!
+Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om borede tuneller under vejene, begynder at bore i Californien og så hører man ikke rigtigt mere til det.
+-->
+#
+![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+## Forhindringer
+### **1. Ukoordinerede og lokale indsatser**
+<!--    - Drevet af ildsjæle ofte teknikere
+    - Fokus på teknik istedet for strategi -->
+2. Udvanding af genbrugs begrebet
+3. Drevet som tidbegrænsede projekter
+
+#
+![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+## Forhindringer
+1. Ukoordinerede og lokale indsatser
+### **2. Udvanding af genbrugs begrebet**
+<!--        - Indkøb eller fælles anvendelse italesættes som genbrug -->
+3. Drevet som tidbegrænsede projekter
+
+#
+![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+## Forhindringer
+1. Ukoordinerede og lokale indsatser
+2. Udvanding af genbrugs begrebet
+### **3. Drevet som tidbegrænsede projekter**
+<!--    - Ringe forudsætningsanalyser p.g.a. manglende domæneviden
+    - Manglende fokus på strategi og fremtidd sikring
+    - Tendens til at opfinde nye metoder for hver indsats istedet for genbrug af metoder
+    - Teams med evner for kontinuerlig forbedring 
+Ikke Indkøb og kravspec skillsets risikerer at stå i vejen
+-->
+#
+## **Forudsætninger**
+for GENBRUG
+## 🔃
+###### Kvalificeret af andre, ukompliceret at dele, nemt at tilgå, gennemskueligt. 
+![bg brightness:0.5 opacity:0.6 sepia:0.2 blur:1px](./image/FDA/photocopy-1588176329173.webp)
+
 
 <!--
 Der mangler en forankring - Er der noget man gør eller er det en strategisk ramme?
@@ -98,25 +144,32 @@ Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug
 
     Risiko: *Vanetænkning og frygt forhindrer at den nødvendige tillid til OSS kan nåes, og projekterne strander dybt nede i it-adfelingerne*
 
--->
 #
-## **Forudsætninger**
-for GENBRUG
-## 🔃
-###### Anbefalet af andre, nemt at tilgå, gennemskueligt, ukompliceret at dele
 
-![bg brightness:0.5 opacity:0.6 sepia:0.2 blur:1px](./image/FDA/photocopy-1588176329173.webp)
+ Software Engineering with Reusable Components
+ - Johannes Sametinger - Institut für Wirtschaftsinformatik, Johannes-Kepler-Universität Linz, Linz, Austria
+https://scholar.google.com/citations?hl=da&user=92HPqbEAAAAJ
 
+Software Reuse
+CHARLES W. KRUEGER
+School of Computer Science, G’arnegie Mellon University, Pittsburgh, Pennsylvania 15213
+Soft
+
+Introduction to Software Reuse
+Jacob L. Cybulski - https://scholar.google.com/citations?user=H3RAsPIAAAAJ&hl=da&oi=ao
+Department of Information Systems
+The University of Melbourne
+
+-->
 
 # **OPEN SOURCE**
 leverer rammerne
-![bg blur:2px brightness:0.7 opacity:0.7](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-###
-###### **Transparency** | **Availability** | **Uniformity**
-
-##### ReUse
+![bg blur:2px brightness:0.8 opacity:0.8](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <!-- Genbrug og transparens er indbyggede faktorer-->
+
+##### **Transparency** | **Availability** | **Uniformity**
+ReUse
 
 # **METODER**
 
