@@ -187,7 +187,7 @@ ReUse
 
 -->
 #
-## **BIDRAG**
+### **BIDRAG**
 ```python
     
      def get_encryption_key_descriptor(self) -> Optional[Element]:  
@@ -215,6 +215,7 @@ ReUse
 
 
 
+
 ```
 <!-- _footer : "[contributor](https://github.com/nicolas-semaphor?tab=overview&from=2023-04-01&to=2023-04-30) - [issue](https://github.com/goauthentik/authentik/issues/7999) - [contribution](https://github.com/goauthentik/authentik/pull/10099) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:150 invert brightness:10 opacity:0.4](../img/OS2_logo_cmyk.svg) " -->
 
@@ -223,15 +224,3 @@ En helt github grøn udvikler
 Et spørgsmål til et eksisterende projekt
 Et bidrag til et fælles vedligeholdt projekt
 -->
-
-#
-### &nbsp;&nbsp;**IDENTIFICER** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **INVESTER** &nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;Generelle fælles behov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distribueret vedligehold &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Eksisterende teknologi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardisering&nbsp;&nbsp;&nbsp;
-### **INSISTER**
-Open Source
-Transparens
-Neutralt ejerskab
-![bg brightness:0.7 sepia:0.3 blur:1.5px opacity:90%](https://images.pexels.com/photos/157879/gift-jeans-fashion-pack-157879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
-<!-- _footer: "" -->
