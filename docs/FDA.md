@@ -91,10 +91,9 @@ Ikke Indkøb og kravspec skillsets risikerer at stå i vejen
 #
 ## **Forudsætninger**
 for GENBRUG
-## 🔃
+### 🔃
 ###### Kvalificeret af andre, ukompliceret at dele, nemt at tilgå, gennemskueligt. 
-![bg brightness:0.5 opacity:0.6 sepia:0.2 blur:1px](./image/FDA/photocopy-1588176329173.webp)
-
+![bg brightness:0.6 opacity:0.8](https://images.pexels.com/photos/7060/man-people-space-desk.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <!--
 Der mangler en forankring - Er der noget man gør eller er det en strategisk ramme?
@@ -164,12 +163,14 @@ The University of Melbourne
 
 # **OPEN SOURCE**
 leverer rammerne
-![bg blur:2px brightness:0.8 opacity:0.8](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![bg blur:1px brightness:0.5 opacity:0.8](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <!-- Genbrug og transparens er indbyggede faktorer-->
+###
+###
+##### :mag: **Transparency** | 🤝**Availability** | :package: **Standardization**
 
-##### **Transparency** | **Availability** | **Uniformity**
-ReUse
+**♻️ ReUse**
 
 # **METODER**
 
