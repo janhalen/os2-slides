@@ -60,90 +60,45 @@ Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-## Forhindringer
+
 ### **1. Ukoordinerede og lokale indsatser**
 <!--    - Drevet af ildsjæle ofte teknikere
     - Fokus på teknik istedet for strategi -->
 2. Udvanding af genbrugs begrebet
-3. Drevet som tidbegrænsede projekter
+3. Begrænsede projekter
 
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-## Forhindringer
 1. Ukoordinerede og lokale indsatser
 ### **2. Udvanding af genbrugs begrebet**
 <!--        - Indkøb eller fælles anvendelse italesættes som genbrug -->
-3. Drevet som tidbegrænsede projekter
+3. Begrænsede projekter
 
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-## Forhindringer
+
 1. Ukoordinerede og lokale indsatser
 2. Udvanding af genbrugs begrebet
-### **3. Drevet som tidbegrænsede projekter**
+### **3. Begrænsede projekter**
+
 <!--    - Ringe forudsætningsanalyser p.g.a. manglende domæneviden
-    - Manglende fokus på strategi og fremtidd sikring
+    - Manglende fokus på strategi og fremtids sikring
     - Tendens til at opfinde nye metoder for hver indsats istedet for genbrug af metoder
     - Teams med evner for kontinuerlig forbedring 
-Ikke Indkøb og kravspec skillsets risikerer at stå i vejen
+     Indkøb og kravspec skillsets risikerer at stå i vejen isteder for at hjælpe
 -->
 #
-## **Forudsætninger**
-for GENBRUG
+## **FORUDSÆTNINGER**
 ### 🔃
-###### Kvalificeret af andre, ukompliceret at dele, nemt at tilgå, gennemskueligt. 
+
 ![bg brightness:0.6 opacity:0.8](https://images.pexels.com/photos/7060/man-people-space-desk.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+Forankring - Fælles forståelse - Fundamentale friheder
 <!--
-Der mangler en forankring - Er der noget man gør eller er det en strategisk ramme?
-
-Der mangler en fælles forståelse af, 
-hvad begrebet **genbrug** præcist indbefatter eller hvilken værdi man forventer
-
-Properitært? En Kopi? Indkøb af samme teknologi?
-
-Hvis folks selv må definere det kommer vi ingen vegne.
-
-#### Manglende akkumuleret viden om OSS
-
-Forsøg med genbrug identificeres ikke nødvendigvis med Open Source, da der er meget lidt akkumuleret viden om OSS i danske myndigheder.
-
-#### Fragmenteret viden om initiativer
-
-Der er meget begrænset opsamlet statistik eller succeshistorier om initiativer i den danske offentlige sektor. Mange kilder peger på op til 10 år gamle kilder.
-
-[Interactive Resource Map | Joinup](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/interactive-resource-map)
-
-# Mine erfaringer med forsøg på genbrug
-
-Baseret på min erfaring falder forsøg med forskellige fortolkninger af genbrug, lidt groft sagt, indenfor fire kategorier. 
-
-### :handshake: Den indidviduelle og manuelle
-
-   Ildsjæle i de mellemste organisatoriske lag af myndighederne,  benytter netværksmøder, personlige kontakter, email anmodninger, og uensartede fremgangsmådet til at fremskaffe programmer og dokumentation på software der håbes genbrugt. Det indebærer mange personafhængige flaskehalse og processen kan være meget langsom og uforudsigelig. I nogle tilfælde dukker disse ildsjæle op igen i anden kontekst involveret i Open Source projekter.
-
-   Risiko: *Bestilleren kan ikke vente og mister tålmodigheden, projektet falder til jorden or et med til at underbygge generelle misforståelser og myter om genbrug af software*.
-
-### :money_with_wings: Den vedligeholdelsestunge
-
-   Der investeres mange timer og penge i at etablere officielle offentlige portaler, med custom søgemaskiner og applikationsdatabaser baseret på indmeldinger og manuel opmærkning. Det viser sig at været så tungt i både teknisk og administrativt vedligehold at det bliver voldsomt dyrt at vedligeholde og meget svært at finde financiering til.
-
-  Risiko:  *Den økonomiansvarlige tvivler på værdiskabelsen, holdt op imod investeringerne og stopper funding.* 
-
-### 🙈 Den udliciterende
-
-    Alle myndigheder placerer deres æg i samme kurv og køber væg-til-væg løsninger f.esk ved en af de store amerikanske tech giganter. Der skal opmandes på juridiske kompetencer til leverandør og licensstyring og myndighederne må tilpasse sig til løsningerne. Selvom man teknisk set "gen"bruger de samme løsninger, må man acceptere et tab af ejerskab og indflydelse.
-
-    Risiko: *Leverandøren kan ved hjælpe af de-facto leverandør lock-in prissætte sine ydelser udelukkende efter deres kommercielle forretningsmodeller og regninger til licenser eskalerer ud af kontrol*
-
-### :people_holding_hands: Det samarbejdskrævende alternativ
-
-    Der genbruges eksisterende åbne delingsportaler til Open Source og investeres i åbne vidensfællskaber, der aktiverer det private SMV lag og arbejder inkrementelt med tilpasninger af eksisterende løsninger.
-
-    Risiko: *Vanetænkning og frygt forhindrer at den nødvendige tillid til OSS kan nåes, og projekterne strander dybt nede i it-adfelingerne*
-
-#
+1. Koordination og ensartede måder at opdage og identificere software.
+2. Fælles metoder og standarder for deling.
+3. Robuste konstruktioner (communities) der kan gøres person og organisations uafhængige. 
 
  Software Engineering with Reusable Components
  - Johannes Sametinger - Institut für Wirtschaftsinformatik, Johannes-Kepler-Universität Linz, Linz, Austria
@@ -164,21 +119,14 @@ The University of Melbourne
 # **OPEN SOURCE**
 leverer rammerne
 ![bg blur:1px brightness:0.5 opacity:0.8](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+###### Frihed til at bruge, undersøge, dele og modificere
 
-<!-- Genbrug og transparens er indbyggede faktorer-->
-###
-###
-##### :mag: **Transparency** | 🤝**Availability** | :package: **Standardization**
+<!-- Genbrug og transparens er indbygget i OSS-->
 
-**♻️ ReUse**
+# **ORGANISERING**
+![bg  blur:1px brightness:0.4 opacity:0.8](https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-# **METODER**
-
-![bg blur:1px brightness:0.5 opacity:80%](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-###### :cloud: **Design** - 15 factor app &ensp;**|**&ensp; 📦 **Packaging** - OCI containers
-###### :arrows_counterclockwise: **Documentation** - Docs-as-Code &ensp;**|**&ensp; ⚙️ **Deployment** - GitOps
-###### :arrow_double_up: **Maintenance** - Upstream first
+![w:900px invert](https://opensource.com/sites/default/files/uploads/ospo_1.png)
 
 <!--
 
@@ -187,8 +135,20 @@ leverer rammerne
 - Bidrag til ensartet, søgbare tekniske dokumentationsportaler via "docs-as code" principper og automatisering
 
 -->
+# **METODER**
+standard open source & best practices
+
+![bg blur:1px brightness:0.5 opacity:80%](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+###### :cloud: **Sharing & managing** - git+github&ensp;**|**&ensp; 📦 **Packaging** - open containers
+###### :arrows_counterclockwise: **Documentation** - docs-as-code &ensp;
+
+###### 🤝 **Communities** - async real-time chat
+
+
+
 #
-### **BIDRAG**
+## **BIDRAG**
 ```python
     
      def get_encryption_key_descriptor(self) -> Optional[Element]:  
