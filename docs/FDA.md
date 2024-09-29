@@ -11,13 +11,6 @@ paginate: false
 #
 ![bg left:40% h:650 opacity:0.85](https://images.pexels.com/photos/6168066/pexels-photo-6168066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<style scoped>
-  img {
-  width:200px;
-  border-radius: 50%;
-    }
-</style>
-![opacity:92% sepia:0.1](../docs/image/EARoles/jmk_colour.jpg )
 ### [JAN MAACK KJERBYE]()
 *Enterprise Architect OS²*
 <!-- _footer: "jan@os2.eu" -->
@@ -60,6 +53,7 @@ Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+<!-- transitions: overlap -->
 
 ### **1. Ukoordinerede og lokale indsatser**
 <!--    - Drevet af ildsjæle ofte teknikere
@@ -89,6 +83,8 @@ Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om
      Indkøb og kravspec skillsets risikerer at stå i vejen isteder for at hjælpe
 -->
 #
+<!-- transitions: swipe -->
+
 ## **FORUDSÆTNINGER**
 ### 🔃
 
