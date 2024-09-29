@@ -53,7 +53,7 @@ Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<!-- transitions: overlap -->
+<!-- transition: overlap -->
 
 ### **1. Ukoordinerede og lokale indsatser**
 <!--    - Drevet af ildsjæle ofte teknikere
@@ -83,7 +83,7 @@ Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om
      Indkøb og kravspec skillsets risikerer at stå i vejen isteder for at hjælpe
 -->
 #
-<!-- transitions: swipe -->
+<!-- transition: swipe -->
 
 ## **FORUDSÆTNINGER**
 ### 🔃
