@@ -35,52 +35,62 @@ Jeg brænder for en mere åben og robust offentlig sektor
 > 
 > ###### [:arrow_right: McKinsey Digital Insights](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/quantum-technology-use-cases-as-fuel-for-value-in-finance)
 
-# Forhindringer
+# **FORHINDRINGER**
 
-![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![bg brightness:0.4 blur:2px](https://vejle24.dk/files/nyheder24/styles/article_top_fullwidth_1x/public/media/2018/16/trafikprop.jpg?itok=6iFNaEVN)
 
 <!--
-Vi starter lidt let med en analogi.
-Analogi: Lidt ligesom en trafikprop i et afrikansk land
-Alle har mere eller mindre samme mål
-Alle løser det individuelt, f.eks ved at sidde i egen bil
-Selv folk der har valgt at tage en bus sammen med andre sidder fast og kommer ingen vegne.
-Nogen kører måske decideret imod kørselsretningen
-Nogle bliver utålmodige og maser sig ud i nødspor eller på fortov eller helt uden for vejen og sidder fast i mudderet.
-Kaos!
-Fremadstormende tech giganter som Elon Musk "løser det" ved at sælge planer om borede tuneller under vejene, begynder at bore i Californien og så hører man ikke rigtigt mere til det.
+Men hvorfor genbruger vi så ikke.?
+Det kan ikke passe at det giver så stor værdi og at vi ikke gør det?
+Klassisk filosofisk fejlslutning
+Vi sidder også i trakfikpropper næsten hver dag 
+En digital trængsel
+Alle mand for sig selv
+Jeg har flere gange siddet i en "lynbus" på E45 denne sommer
+Det var ikke p.g.a. bussen at vi ikke kom frem, det var p.g.a. trængsel.
+
+
 -->
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+## **1. Ingen samlende koncensus**
+<!--        - Indkøb eller fælles anvendelse italesættes som genbrug 
+Der kan ikke findes en officiel definition at følge
+Og vi har ikke som myndigheder besluttet at deltage i et genbrugs fælleskab-->
+2. Teknik over strategi
+3. Indkøbs mindset
+
 
 <!-- transition: glow -->
 
-### **1. Ukoordinerede og lokale indsatser**
+#
+![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+1. Ingen samlende koncensus
+## **2. Teknik over strategi**
 <!--    - Drevet af ildsjæle ofte teknikere
-    - Fokus på teknik istedet for strategi -->
-2. Udvanding af genbrugs begrebet
-3. Begrænsede projekter
+    - Fokus på teknik istedet for strategi 
+    Manglen-->
+3. Indkøbs mindset
 
-#
-![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-1. Ukoordinerede og lokale indsatser
-### **2. Udvanding af genbrugs begrebet**
-<!--        - Indkøb eller fælles anvendelse italesættes som genbrug -->
-3. Begrænsede projekter
 
 #
 ![bg brightness:0.4 blur:2px](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 1. Ukoordinerede og lokale indsatser
 2. Udvanding af genbrugs begrebet
-### **3. Begrænsede projekter**
+### **3. Indkøbs mindset**
 
-<!--    - Ringe forudsætningsanalyser p.g.a. manglende domæneviden
+<!--   
     - Manglende fokus på strategi og fremtids sikring
+    
     - Tendens til at opfinde nye metoder for hver indsats istedet for genbrug af metoder
-    - Teams med evner for kontinuerlig forbedring 
-     Indkøb og kravspec skillsets risikerer at stå i vejen isteder for at hjælpe
+
+- Håndteres som "feature complete" indkøb
+- Feature complete
+-  Indkøb og kravspec skillsets risikerer at stå i vejen isteder for at hjælpe
+- Teams med evner for kontinuerlig forbedring 
+    
 -->
 #
 <!-- transition: swipe -->
