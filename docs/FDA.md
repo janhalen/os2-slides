@@ -37,14 +37,23 @@ Jeg brænder for en mere åben og robust offentlig sektor
 
 # **FORHINDRINGER**
 
+3 tegn på digital trængsel
+
 ![bg brightness:0.4 blur:2px](https://vejle24.dk/files/nyheder24/styles/article_top_fullwidth_1x/public/media/2018/16/trafikprop.jpg?itok=6iFNaEVN)
 
 <!--
-Men hvorfor genbruger vi så ikke.?
+Bro fra Rasmus - så meget værdi at høste MEN
+
+Hvorfor genbruger vi så ikke.?
+
 Det kan ikke passe at det giver så stor værdi og at vi ikke gør det?
+
 Klassisk filosofisk fejlslutning
+
 Vi sidder også i trakfikpropper næsten hver dag 
+
 En digital trængsel
+
 Alle mand for sig selv
 Jeg har flere gange siddet i en "lynbus" på E45 denne sommer
 Det var ikke p.g.a. bussen at vi ikke kom frem, det var p.g.a. trængsel.
@@ -58,7 +67,7 @@ Det var ikke p.g.a. bussen at vi ikke kom frem, det var p.g.a. trængsel.
 Der kan ikke findes en officiel definition at følge
 Og vi har ikke som myndigheder besluttet at deltage i et genbrugs fælleskab-->
 2. Teknik over strategi
-3. Indkøbs mindset
+3. Produkt mindset
 
 
 <!-- transition: glow -->
@@ -70,7 +79,7 @@ Og vi har ikke som myndigheder besluttet at deltage i et genbrugs fælleskab-->
 <!--    - Drevet af ildsjæle ofte teknikere
     - Fokus på teknik istedet for strategi 
     Manglen-->
-3. Indkøbs mindset
+3. Produkt mindset
 
 
 
@@ -79,7 +88,7 @@ Og vi har ikke som myndigheder besluttet at deltage i et genbrugs fælleskab-->
 
 1. Ukoordinerede og lokale indsatser
 2. Udvanding af genbrugs begrebet
-### **3. Indkøbs mindset**
+### **3. Produkt mindset**
 
 <!--   
     - Manglende fokus på strategi og fremtids sikring
@@ -125,7 +134,9 @@ The University of Melbourne
 # **OPEN SOURCE**
 leverer rammerne
 ![bg blur:1px brightness:0.5 opacity:0.8](https://images.unsplash.com/photo-1634745646763-1f1183bb91c1?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-###### Frihed til at bruge, undersøge, dele og modificere
+##
+##
+###### Interoperable, Fællesudviklede, Genbrugelige komponenter
 
 <!-- Genbrug og transparens er indbygget i OSS-->
 
