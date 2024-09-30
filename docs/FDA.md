@@ -158,9 +158,8 @@ standard open source & best practices
 ![bg blur:1px brightness:0.5 opacity:80%](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ###### :cloud: **Sharing & managing** - git+github&ensp;**|**&ensp; 📦 **Packaging** - open containers
-###### :arrows_counterclockwise: **Documentation** - docs-as-code &ensp;**|**&ensp; 💡 **Innovation** - sandboxes
-
-###### 🤝 **Communities** - async real-time chat
+###### :arrows_counterclockwise: **Documentation** - docs-as-code &ensp;**|**&ensp; 💡 **Innovation** - sandboxes 
+###### 🌟 **Robustness** - automation driven security and audit
 
 
 
