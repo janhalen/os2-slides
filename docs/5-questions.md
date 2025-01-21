@@ -46,7 +46,14 @@ Jeg brænder for en mere åben og robust offentlig sektor
 >*Hvad indebærer det at udarbejde en exit-strategi for et produkt, hvorfor er det vigtigt og hvor starter jeg?*
 
 #
-![bg blur:2px brightness:0.3](https://images.pexels.com/photos/235975/pexels-photo-235975.jpeg)
->*Hvad indebærer det at udarbejde en exit-strategi for et produkt, hvorfor er det vigtigt og hvor starter jeg?*
+![bg blur:2px brightness:0.4](https://images.pexels.com/photos/3944307/pexels-photo-3944307.jpeg)
+>*Hvad skal der til i vores produkt for at andre myndigheder kan tage det i brug?*
 
+#
+![bg blur:2px brightness:0.5](https://images.pexels.com/photos/4491830/pexels-photo-4491830.jpeg)
+>*Hvordan bygger vi vores produkt så det fungerer sammen med den fælleskommunale digitale arkitektur?*
 
+#
+
+![bg blur:1px brightness:0.6](https://images.pexels.com/photos/9392906/pexels-photo-9392906.jpeg)
+>*Hvordan kan jeg designe vores system så det er mere fremtidssikret og mindre sårbart overfor forandringer?*
