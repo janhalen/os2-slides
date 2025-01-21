@@ -35,9 +35,11 @@ Jeg brænder for en mere åben og robust offentlig sektor
 > 
 > ###### [:arrow_right: McKinsey Digital Insights](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/quantum-technology-use-cases-as-fuel-for-value-in-finance)
 
+
 # **FORHINDRINGER**
 
 3 tegn på digital trængsel
+
 
 ![bg brightness:0.4 blur:2px](https://vejle24.dk/files/nyheder24/styles/article_top_fullwidth_1x/public/media/2018/16/trafikprop.jpg?itok=6iFNaEVN)
 

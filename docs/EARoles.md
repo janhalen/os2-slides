@@ -58,31 +58,34 @@ Enterprise Architect OS²
 
 ![bg left blur:1px brightness:0.7](https://images.unsplash.com/photo-1649479030733-821d4dc04878?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-Hvad laver en Enterprise Arkitekt ?
-
+HVORDAN
+:question:
+###### **kan jeg hjælpe jeres produkt?**
 #
-![bg right fit blur:1px brightness:0.7](https://images.unsplash.com/photo-1579769696606-3a52f6d41b95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGV4dHJlbWUlMjBzcG9ydHN8ZW58MHx8MHx8fDA%3D)
+![bg right fit blur:1px brightness:0.8](https://images.unsplash.com/photo-1579769696606-3a52f6d41b95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGV4dHJlbWUlMjBzcG9ydHN8ZW58MHx8MHx8fDA%3D)
 
 RISIKOVURDERING
 🚩
 
-###### **Identifikation af potentielle risici i produkterne.**
-###### **Rådgivning om risikominimering og arkitekturvalg.**
+###### **Identifikation af risici**
+###### **Rådgivning om arkitekturvalg for at sikre risikominimering**
 
 #
-STRATEGISK RÅDGIVNING
+STRATEGISK TILPASNING
 🧩
 ![bg right:42% blur:1px brightness:0.6](https://images.unsplash.com/photo-1457694716743-eb419114c894?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-###### **Rådgivning om teknologiske og it-politiske tendenser**
-###### **Vejledning om best practice for overensstemmelse med nationale og internationale mål**
+###### **Afdækning af stragisk overensstemmelse med fællesskabets vision og mission**
+
+###### **Rådgivning om best practice for overensstemmelse med nationale og internationale mål**
+
 
 
 #
 ![bg left:44% blur:1px brightness:0.5](https://images.pexels.com/photos/23964492/pexels-photo-23964492/free-photo-of-exterior-of-the-guggenheim-museum-bilbao.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
-FREMTIDS SIKRING
+FREMTIDSSIKRING
 
 🚀
 
