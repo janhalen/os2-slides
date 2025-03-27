@@ -11,7 +11,7 @@ paginate: false
 #
 ![bg left:40% h:650 opacity:0.85](https://images.pexels.com/photos/6168066/pexels-photo-6168066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-### [JAN MAACK KJERBYE]()
+### [JAN  KJERBYE]()
 *Enterprise Architect OS²*
 <!-- _footer: "jan@os2.eu" -->
 
