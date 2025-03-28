@@ -22,6 +22,12 @@ Bred erfaring med værdiskabelse fra både private og offentlige orgs.
 Jeg brænder for en mere fair og robust offentlig sektor
 
 -->
+# Digital handlefrihed siden 
+2000
+- Ingen låsninger til enkeltleverandører
+- Ingen benspænd fra kommercieller licenser
+- Fuld support fra et verdensomspændende community
+
 
 #
 <!--
@@ -69,25 +75,20 @@ Ingen investorer, intet krav om kommercielt afkast-->
 
 
 #
-![bg blur:3px saturate:0.9 brightness:0.4](https://images.pexels.com/photos/12324202/pexels-photo-12324202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-## [Moderne best practice]()
-
+### [Moderne best practice]()
 >  _Vi opfinder ikke hjulet igen,_
 _vi samarbejder_
  _og genbruger robuste åbne standarder_
-
-
-#
 <!--
 class: null
 -->
-![w:200 bg right](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/foundation-for-public-code.png)
+![w:200 bg vertical left](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/foundation-for-public-code.png)
 
-![w:175](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/2.png)
+![w:175 bg left](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/2.png)
 
-![w:200 bg](https://opencontainers.org/img/logos/OCI-logo.svg)
+![w:200 bg left](https://opencontainers.org/img/logos/OCI-logo.svg)
 
-![w:200 bg vertical](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg)
+![w:200 bg left](https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg)
 
 #
 <!--
