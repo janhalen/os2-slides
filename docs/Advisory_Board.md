@@ -22,18 +22,24 @@ Bred erfaring med værdiskabelse fra både private og offentlige orgs.
 Jeg brænder for en mere fair og robust offentlig sektor
 
 -->
-# Digital handlefrihed siden 
-2000
-- Ingen låsninger til enkeltleverandører
-- Ingen benspænd fra kommercieller licenser
-- Fuld support fra et verdensomspændende community
 
-
-#
+# Professionel digital handlefrihed siden
+![bg blur:0.5px brightness:0.7](https://images.pexels.com/photos/6172836/pexels-photo-6172836.jpeg)
 <!--
 class: invert
 
 -->
+2018
+##
+##
+
+<small>Ingen låsninger til enkeltleverandører
+Ingen benspænd fra kommercieller licenser
+Support fra et verdensomspændende community
+</small>
+
+#
+
 
 ![bg blur:1px brightness:0.7](https://images.unsplash.com/photo-1515856251934-766e064d7b09?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <!-- Hvordan adskiller vi os fra et "almindeligt" software produkt -->
