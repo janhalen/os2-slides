@@ -3,24 +3,23 @@ marp: true
 footer: ![w:150 sepia:200% invert](../img/OS2_logo_cmyk.svg)
 theme: uncover
 transition: reveal
-
 headingDivider: 1
 paginate: false
+style: |
+  .fa-linkedin { color: blue; }
+  @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 ---
+
 #
-![bg left:33% h:650](https://images.unsplash.com/photo-1627008767693-20498ff18ab7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### [JAN MAACK KJERBYE]()
 *Enterprise Architect*
-<br>
-> <small>Jeg brænder for en mere fair og robust offentlig sektor</small>
 
 
 <!--
 Bred erfaring med værdiskabelse fra både private og offentlige orgs.
 
 Jeg brænder for en mere fair og robust offentlig sektor
-
 -->
 
 # Professionel digital handlefrihed siden
@@ -29,6 +28,7 @@ Jeg brænder for en mere fair og robust offentlig sektor
 class: invert
 
 -->
+#
 2018
 ##
 ##
@@ -102,5 +102,12 @@ class: invert
 -->
 ![bg brightness:0.5](https://images.unsplash.com/photo-1542621334-a254cf47733d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ## Operationalisering
+<hr>
 Rådgivning | Tekniske skabeloner | Løbende revision
+
+#
+<mark class='info'>
+content
+</mark>
+
 
