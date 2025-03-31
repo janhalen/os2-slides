@@ -11,7 +11,3 @@ paginate: false
 
 # Hej
 ![bg](./docs/image/FDA/photocopy-1588176329173.webp)
-
-# Hej!
-
-![bg left:40% h:650 opacity:0.85](https://images.pexels.com/photos/6168066/pexels-photo-6168066.jpeg)
