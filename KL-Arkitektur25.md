@@ -22,15 +22,13 @@ Bred erfaring med værdiskabelse fra både private og offentlige orgs.
 Jeg brænder for en mere fair og robust offentlig sektor
 
 -->
-
-#
-
-Historie
---> Frivillighed og ildsjæle
---> Proffesionalisering
-
 #
 <!-- class: invert-->
+
+![bg blur:2px brightness:0.3](https://images.pexels.com/photos/235975/pexels-photo-235975.jpeg)
+>*Hvad indebærer det at udarbejde en exit-strategi for et produkt, hvorfor er det vigtigt og hvor starter jeg?*
+
+#
 
 ![bg blur:3px opacity:0.4 brightness:0.8](https://images.unsplash.com/photo-1569360531163-a61fa3da86ee)
 > _Many  organizations recognize 
@@ -54,6 +52,10 @@ Lavpraktisk fundament-> Oprettelse af et versions styret hjem i cloud til projek
 Herunder kildekode, styring af projekt, sager og leverandører, dynamisk dokumentation, kvalitetetssikring, proaktiv cybersikkerhed, løsningspakketering og release management. -->
 
 #
+![bg blur:2px brightness:0.4](https://images.pexels.com/photos/3944307/pexels-photo-3944307.jpeg)
+>*Hvad skal der til i vores produkt for at andre myndigheder kan tage det i brug?*
+
+#
 
 ![bg blur:1px sepia:0.8 brightness:0.56](https://images.pexels.com/photos/17690065/pexels-photo-17690065/free-photo-of-a-perso-sculpting.jpeg)
 > _Projektledere og politikere overvurderer konsekvent deres projekters unikke værdi og undervurderer risikoen. Dette er ikke tilfældigt – det er en systematisk psykologisk bias, der får os til at tro, at vores projekt er undtagelsen._
@@ -65,7 +67,7 @@ Herunder kildekode, styring af projekt, sager og leverandører, dynamisk dokumen
 GENBRUG
 ![bg blur:1px opacity:0.7 sepia:0.8 left:60%](https://images.pexels.com/photos/17690065/pexels-photo-17690065/free-photo-of-a-perso-sculpting.jpeg)
 
-<!-- Genbrug - Anbefalinger om genbrug ud fra datadrevne projekt principper som "the uniqueness bias fallacy" - lavpraktisk hjælp med identifikation af eksisterende komponenter og løsninger der løser dele af business casen
+<!-- Genbrug - OS² rådgiver og giver lavpraktisk hjælp med identifikation af eksisterende komponenter og løsninger der løser dele af business casen.
 
 Unikhedsbias (også kaldet false-uniqueness effect) er en psykologisk tendens, hvor folk opfatter egne evner, holdninger eller handlinger som mere unikke eller specielle, end de i virkeligheden er
 
@@ -82,53 +84,55 @@ Hvorfor sker det?
 
     Selvforstærkning: Vi husker bedre vores egne positive egenskaber end andres
 
-.
 
 Misvisende sammenligninger: Når vi skal vurdere "den gennemsnitlige person", sammenligner vi ofte os selv med en snæver gruppe (f.eks. kolleger i stedet for hele branchen)
 
-.
-
 Selvbeskyttelse: At føle sig unik kan booste selvtilliden, selvom det ikke altid er realistisk
-
-    .
 
 Konsekvenser i arbejdslivet
 
     Projekter: Hvis man overvurderer sin projekts unikhed, kan man overse vigtige erfaringer fra lignende projekter, hvilket øger risikoen for forsinkelser eller fejl
 
-.
-
 Teamarbejde: Medarbejdere kan undervurdere, hvor meget andre bidrager, fordi de fokuserer på deres eget unikke input
-
-    .
 
 Hvordan undgås det?
 
     Brug referenceklasser: Sammenlign med tidligere projekter eller branchestandarder for at få en mere objektiv vurdering
 
-.
-
 Spørg kolleger: Få eksterne perspektiver for at afdække blinde vinkler.
 
 "Præmortem"-analyse: Forestil dig, at projektet fejler, og identificer potentielle årsager på forhånd
 
-    .
-
 Kort sagt: Unikhedsbias får os til at tro, at vi eller vores arbejde er mere specielt end det er – en fejlslutning, der kan koste dyrt, hvis den ikke opdages.-->
+
+
+
+
+#
+![bg blur:2px brightness:0.5](https://images.pexels.com/photos/4491830/pexels-photo-4491830.jpeg)
+>*Hvordan bygger vi vores produkt så det fungerer sammen med den fælleskommunale digitale arkitektur?*
+
+#
+
+![bg blur:1px brightness:0.6](https://images.pexels.com/photos/9392906/pexels-photo-9392906.jpeg)
+>*Hvordan kan jeg designe vores system så det er mere fremtidssikret og mindre sårbart overfor forandringer?*
+
 #
 Transparens
  - Rådgivning om gode vaner og transparente arbejdsgange, fokus på struktur og best-practice standarder.
 
 # Demo 
 
-Hands om example
+Hands on example
+
+https://github.com/OS2fleetoptimiser/OS2fleetoptimiser/issues
+
+
+
 
 #
 <!-- _header: Flyvbjerg, B., Bruzelius, N., & Rothengatter, W. (2003). Megaprojects and Risk: An Anatomy of Ambition. Cambridge University Press <br><br> Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux. <br><br> Flyvbjerg, B. (2024). "Behavioral Bias". IT-Universitetet i København.-->
 
-#
-
-Talentudvikling
 
 <!-- 
 
@@ -174,3 +178,4 @@ Rådgivning om design og løsnings arkitektur. Nedbrydning af løsningsmodeller 
 5. 
 
 -->
+
