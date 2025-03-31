@@ -31,10 +31,9 @@ Historie
 
 
 #
-## **Ejerskab**
-![bg left w:1100](./img/wordcloud.png)
-
-Fundamentet for ejerskab
+<!-- class: invert-->
+![bg right:60% w:600 invert opacity:0.8 contrast:0.73](./img/SSOT.svg)
+### **Ejerskab**
 :arrow_down:
 SINGLE SOURCE OF TRUTH
 
@@ -43,8 +42,7 @@ SINGLE SOURCE OF TRUTH
 Herunder kildekode, styring af projekt, sager og leverandører, dynamisk dokumentation, kvalitetetssikring, proaktiv cybersikkerhed, løsningspakketering og release management. -->
 
 #
-
-Genbrug
+### **Genbrug**
 
 #
 
