@@ -38,6 +38,7 @@ jobs:
           args: -I docs/ -o build/docs/
         env:
           MARP_USER: root:root
+        options: --user $(id -u):$(id -g)
 
       # Step 6: Create a .nojekyll file to disable Jekyll processing on GitHub Pages
       # Explanation: GitHub Pages uses Jekyll by default to process files. The .nojekyll file
