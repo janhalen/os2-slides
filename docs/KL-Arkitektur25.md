@@ -1,7 +1,7 @@
 ---
 marp: true
 html: true
-footer: ![w:150 invert](./img/OS2_logo_cmyk.svg)
+footer: ![w:150 brightness](../img/OS2_logo_cmyk.svg)
 theme: uncover
 transition: reveal
 headingDivider: 1
@@ -12,9 +12,10 @@ paginate: false
 ![bg left:33% h:650](https://images.unsplash.com/photo-1627008767693-20498ff18ab7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### [JAN MAACK KJERBYE]()
+<hr>
+
 *Enterprise Architect*
-<br>
-> Jeg brænder for en mere fair og robust offentlig sektor
+
 
 
 <!--
@@ -24,24 +25,43 @@ Jeg brænder for en mere fair og robust offentlig sektor
 
 -->
 #
+<!-- _header: Kommunernes it-arkitekturnetværk 2025 -->
 <!-- class: invert-->
+![bg left:60% brightness:0.6 sepia:0.1](https://images.pexels.com/photos/5477774/pexels-photo-5477774.jpeg)
+### Strategiske indsatser
+første halvår 
+###### 2025
 
-![bg blur:2px brightness:0.3](https://images.pexels.com/photos/235975/pexels-photo-235975.jpeg)
->*Hvad indebærer det at udarbejde en exit-strategi for et produkt, hvorfor er det vigtigt og hvor starter jeg?*
+#
+Styrke medlemmernes [Ejerskab]() til deres produkter
+💠
+Mere [Genbrug]() via leverandørstyring
+💠
+Øget [Transparens]()
 
 #
 
-![bg blur:3px opacity:0.4 brightness:0.8](https://images.unsplash.com/photo-1569360531163-a61fa3da86ee)
+
+![bg blur:2px brightness:0.5 sepia:0.2](https://images.unsplash.com/photo-1551897922-6a919947ae24?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+>*Hvad indebærer det at udarbejde en exit-strategi for et produkt, hvorfor er den vigtigt at have og hvor starter jeg?*
+
+#
+
+![bg blur:3px brightness:0.7 sepia:0.2](https://images.unsplash.com/photo-1668851868018-f63a28481fcf)
 > _Many  organizations recognize 
-the  benefit  of  a  single  source  of  truth  but  often  lack 
+the  benefit  of  a  **single  source  of  truth**  but  often  lack 
 awareness  of  how  to  realize  this  elusive  goal_
-> ###### :arrow_right: _**Queiroz, Magno & Coltman, Tim. (2024). Data Value and the Search for a Single Source of Truth: What is it and Why Does it Matter?**
+> ###### :arrow_right: _**Queiroz, Magno & Coltman, Tim. (2024). Data Value and the Search for a Single Source of Truth: What is it and Why Does it Matter?**_
+
 #
 
 ![bg right:60% w:600 invert opacity:0.8 contrast:0.73](../img/SSOT.svg)
 ### **Ejerskab**
-:arrow_down:
-SINGLE SOURCE OF TRUTH
+######
+###### SINGLE SOURCE OF TRUTH
+###### :arrow_down:
+###### EXIT STRATEGY
+###### _by default_
 
  
 <!-- 
@@ -54,17 +74,18 @@ Herunder kildekode, styring af projekt, sager og leverandører, dynamisk dokumen
 
 #
 ![bg blur:2px brightness:0.4](https://images.pexels.com/photos/3944307/pexels-photo-3944307.jpeg)
->*Hvad skal der til i vores produkt for at andre myndigheder kan tage det i brug?*
+>*Hvad skal der til for at andre myndigheder kan tage vores løsning i brug?*
 
 #
 
 ![bg blur:1px sepia:0.8 brightness:0.56](https://images.pexels.com/photos/17690065/pexels-photo-17690065/free-photo-of-a-perso-sculpting.jpeg)
 > _Projektledere og politikere overvurderer konsekvent deres projekters unikke værdi og undervurderer risikoen. Dette er ikke tilfældigt – det er en systematisk psykologisk bias, der får os til at tro, at vores projekt er undtagelsen._
-> ###### :arrow_right: _**Flyvbjerg (2023), How Big Things Get Done**
+> ###### :arrow_right: _**Flyvbjerg (2023), How Big Things Get Done**_
 #
-### **Undgå Unikhedsbias**
+### **Genbrug**
 :arrow_down:
-GENBRUG
+Investeringer i interoperabilitet
+
 ![bg blur:1px opacity:0.7 sepia:0.8 left:60%](https://images.pexels.com/photos/17690065/pexels-photo-17690065/free-photo-of-a-perso-sculpting.jpeg)
 
 <!-- Genbrug - OS² rådgiver og giver lavpraktisk hjælp med identifikation af eksisterende komponenter og løsninger der løser dele af business casen.
@@ -116,6 +137,12 @@ Kort sagt: Unikhedsbias får os til at tro, at vi eller vores arbejde er mere sp
 
 ![bg blur:1px brightness:0.6](https://images.pexels.com/photos/9392906/pexels-photo-9392906.jpeg)
 >*Hvordan kan jeg designe vores system så det er mere fremtidssikret og mindre sårbart overfor forandringer?*
+
+#
+> *"Many organizations invest lots of time and effort in adopting technologies, but fail to achieve critical software delivery outcomes, due to limitations imposed by architecture."*
+
+###### [➡️ DevOps Research & Assesment program](https://dora.dev/)
+![bg opacity:0.6](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 #
 Transparens
