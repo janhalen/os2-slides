@@ -27,7 +27,6 @@ paginate: false
 ![bg opacity:0.4](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
 ### **LEVERANDØR FORHOLD**
 
-<hr>
 <br>
 
 💼 Likvidation  🔄 Rekonstruktion 💰 Salg
@@ -37,7 +36,6 @@ paginate: false
 ![bg opacity:0.4](https://images.unsplash.com/photo-1591696205602-2f950c417cb9)
 ### **PRISSÆTNING**
 
-<hr>
 <br>
 
 🏆 Konkurrenceforhold  📊 Stigende omkostninger 
