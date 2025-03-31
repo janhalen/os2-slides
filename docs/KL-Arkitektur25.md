@@ -14,7 +14,7 @@ paginate: false
 ### [JAN MAACK KJERBYE]()
 *Enterprise Architect*
 <br>
-> <small>Jeg brænder for en mere fair og robust offentlig sektor</small>
+> Jeg brænder for en mere fair og robust offentlig sektor
 
 
 <!--
@@ -35,10 +35,10 @@ Jeg brænder for en mere fair og robust offentlig sektor
 > _Many  organizations recognize 
 the  benefit  of  a  single  source  of  truth  but  often  lack 
 awareness  of  how  to  realize  this  elusive  goal_
-> ###### <small><small> :arrow_right: _**Queiroz, Magno & Coltman, Tim. (2024). Data Value and the Search for a Single Source of Truth: What is it and Why Does it Matter?**_</small></small>
+> ###### :arrow_right: _**Queiroz, Magno & Coltman, Tim. (2024). Data Value and the Search for a Single Source of Truth: What is it and Why Does it Matter?**
 #
 
-![bg right:60% w:600 invert opacity:0.8 contrast:0.73](./img/SSOT.svg)
+![bg right:60% w:600 invert opacity:0.8 contrast:0.73](../img/SSOT.svg)
 ### **Ejerskab**
 :arrow_down:
 SINGLE SOURCE OF TRUTH
@@ -60,8 +60,7 @@ Herunder kildekode, styring af projekt, sager og leverandører, dynamisk dokumen
 
 ![bg blur:1px sepia:0.8 brightness:0.56](https://images.pexels.com/photos/17690065/pexels-photo-17690065/free-photo-of-a-perso-sculpting.jpeg)
 > _Projektledere og politikere overvurderer konsekvent deres projekters unikke værdi og undervurderer risikoen. Dette er ikke tilfældigt – det er en systematisk psykologisk bias, der får os til at tro, at vores projekt er undtagelsen._
-> ###### <small><small> :arrow_right: _**Flyvbjerg (2023), How Big Things Get Done**_</small></small>
-
+> ###### :arrow_right: _**Flyvbjerg (2023), How Big Things Get Done**
 #
 ### **Undgå Unikhedsbias**
 :arrow_down:
