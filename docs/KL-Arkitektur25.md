@@ -1,5 +1,6 @@
 ---
 marp: true
+html: true
 footer: ![w:150 invert](./img/OS2_logo_cmyk.svg)
 theme: uncover
 transition: reveal
