@@ -18,11 +18,13 @@ paginate: false
 #
 <!-- _header: Kommunernes it-arkitekturnetværk 2025 -->
 <!-- class: invert-->
-![bg brightness:0.6 sepia:0.1](https://images.pexels.com/photos/5477774/pexels-photo-5477774.jpeg)
-### Mitigering af risisci med en **åben** forretningsarkitektur
+![bg brightness:0.7 sepia:0.3](https://images.pexels.com/photos/5477774/pexels-photo-5477774.jpeg)
+### Risikostyring med
+### en **åben**
+### forretningsarkitektur
 
 #
-![bg opacity:0.3](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
+![bg opacity:0.4](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
 ### **LEVERANDØR FORHOLD**
 
 <hr>
