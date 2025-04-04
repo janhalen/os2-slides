@@ -219,18 +219,8 @@ declarative code --> GitOps
 #
 ![bg left fit invert](https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D161883428W10000H7920/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/talk-is-cheap-show-me-the-code-sticker.jpg)
 
-```yaml
-apiVersion: dapr.io/v1alpha1
-kind: Component
-metadata:
-    name: statestore
-    namespace: default
-spec:
-    type: state.redis
-    version: v1
-    metadata:
-    - name: redisHost
-        value: "localhost:6379"
-    - name: redisPassword
-        value: ""
-```
+
+###### [SAML encryption PR](https://github.com/goauthentik/authentik/pull/10099)
+
+###### [E-ID / SDG klar](https://github.com/digitalist-se/sdg-php-client/blob/main/src/SDGClient.php)
+
