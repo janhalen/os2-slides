@@ -15,6 +15,15 @@ paginate: false
 *Enterprise Arkitekt OS²*
 <!-- _footer: ":envelope: jan@os2.eu" -->
 
+<!-- HVAD ER OS2 - Ikke en leverandør - Ikke en brugerklub
+En demokratisk medlemsforening hvor medlemmerne ejer deres egne produkter
+Vi faciliterer og rådgiver  ejerskab 
+-->
+#
+![bg opacity:0.8 left](https://www.os2.eu/web/image/5410-1906ec5a/os2%20linkedin%20iphone%20mockup.png)
+Vi faciliterer og rådgiver om 
+#### **Ejerskab**
+
 #
 <!-- _header: Kommunernes it-arkitekturnetværk 2025 -->
 <!-- class: invert-->
