@@ -20,11 +20,26 @@ paginate: false
 <!-- class: invert-->
 ![bg brightness:0.7 sepia:0.3](https://images.pexels.com/photos/5477774/pexels-photo-5477774.jpeg)
 ### Risikostyring med
-### en **åben**
+### **proaktiv**
 ### forretningsarkitektur
 
 #
-![bg opacity:0.4](https://images.unsplash.com/photo-1539598978120-7d2f5251837c?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
+![bg blur:1px]( https://images.unsplash.com/photo-1623906841898-d6a7dc0204f5)
+
+## **TO AKTUELLE SCENARIER**
+
+<br>
+
+
+#### 🌟 Rammer **alle** der anvender software
+
+<br>
+
+#### 🌟 Kan mitigeres med **proaktiv** arkitektur
+
+
+#
+![bg opacity:0.6 blur:1px](https://images.unsplash.com/photo-1480944657103-7fed22359e1d?q=80&w=4782&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
 ### **LEVERANDØR FORHOLD**
 
 <br>
@@ -33,7 +48,7 @@ paginate: false
 🤝 Fusion 🌍 Overførsel 💤 Inaktivitet
 
 #
-![bg opacity:0.4](https://images.unsplash.com/photo-1591696205602-2f950c417cb9)
+![bg blur:0.5px opacity:0.7](https://images.unsplash.com/photo-1615992174118-9b8e9be025e7?q=80&w=4896&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ### **PRISSÆTNING**
 
 <br>
@@ -52,7 +67,7 @@ awareness  of  how  to  realize  this  elusive  goal_
 > ###### :arrow_right: _**Queiroz, Magno & Coltman, Tim. (2024). Data Value and the Search for a Single Source of Truth: What is it and Why Does it Matter?**_
 
 #
-###### SINGLE SOURCE OF THRUTH
+###### **SINGLE SOURCE OF THRUTH**
 
 ![bg fit invert opacity:0.8 contrast:0.73](../img/SSOT.svg)
 <br>
