@@ -20,8 +20,15 @@ paginate: false
 <!-- class: invert-->
 ![bg brightness:0.7 sepia:0.3](https://images.pexels.com/photos/5477774/pexels-photo-5477774.jpeg)
 ### Risikostyring med
-### **proaktiv**
-### forretningsarkitektur
+åbne metoder
+&
+##### **proaktiv**
+forretningsarkitektur
+
+<!-- Open Source i anden
+Åbne metoder - Hvordan leverer de indbyggede metoder i Open Source på risikostyring og minimering
+Styring og ejerskab
+-->
 
 #
 ![bg blur:1px]( https://images.unsplash.com/photo-1623906841898-d6a7dc0204f5)
@@ -47,6 +54,12 @@ paginate: false
 💼 Likvidation  🔄 Rekonstruktion 💰 Salg
 🤝 Fusion 🌍 Overførsel 💤 Inaktivitet
 
+<!-- 
+Det sker hele tiden
+Så man kan forberede sig - eller håbe det ikke sker
+De to faktorer i risikostyring.
+-->
+
 #
 ![bg blur:0.5px opacity:0.7](https://images.unsplash.com/photo-1615992174118-9b8e9be025e7?q=80&w=4896&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ### **PRISSÆTNING**
@@ -56,7 +69,9 @@ paginate: false
 🏆 Konkurrenceforhold  📊 Stigende omkostninger 
 👥 Storkundedominans  🤖 Pris-algoritmer
 
-
+<!-- 
+Specielt når man er bundet til en enkelt leverandør 
+-->
 #
 
 ![bg blur:1px brightness:0.4](https://images.unsplash.com/photo-1528820995593-07129c727b2d)
