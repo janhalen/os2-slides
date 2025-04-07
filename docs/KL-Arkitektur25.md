@@ -53,6 +53,7 @@ Styring og ejerskab
 
 #### 🌟 Kan mitigeres med **proaktiv** arkitektur
 
+<!-- Jeg har valgt to områder hvor en teknisk løsning ikke kan stå alene -->
 
 #
 ![bg opacity:0.6 blur:1px](https://images.unsplash.com/photo-1480944657103-7fed22359e1d?q=80&w=4782&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 
