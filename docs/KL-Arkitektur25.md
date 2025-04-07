@@ -17,8 +17,9 @@ paginate: false
 
 <!-- HVAD ER OS2 - Ikke en leverandør - Ikke en brugerklub
 En demokratisk medlemsforening hvor medlemmerne ejer deres egne produkter
-Vi faciliterer og rådgiver  ejerskab 
+Vi skaber rammerne og rådgiver om ejerskab 
 -->
+
 #
 ![bg opacity:0.8 left](https://www.os2.eu/web/image/5410-1906ec5a/os2%20linkedin%20iphone%20mockup.png)
 Vi skaber rammerne og rådgiver om 
