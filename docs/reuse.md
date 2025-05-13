@@ -9,18 +9,38 @@ paginate: false
 ---
 
 #
-<!-- _header: Bestyrelsesseminar 2025 -->
-<!-- class: invert-->
-![bg brightness:0.7 sepia:0.3](https://images.pexels.com/photos/5477774/pexels-photo-5477774.jpeg)
-### Reuse
-### 
+![bg brightness:0.7 sepia:0.3](https://)
+ 
+> _If you imagine that your project is so different from other projects that you have nothing to learn from them, you will overlook risks that you would catch and mitigate if you instead switched to the outside view._
+
+<!-- _footer: _Prof. Flyvbjerg, IT University of Copenhagen - How Big Things Get Done (2022)_ -->
+
+# 
+## Kan du lide at gå hjem kl. 16?
+<!-- Hvorfor
+_Hvorfor skal OS2 tilbyde fælleskomponenter til vores projekter og produkter?_
+-->
+#
+## Genbrug det der virker!
+## 🏅
+###### _Som allerede er testet i hundrevis af produktions-instanser_
+<!-- Ikke flere all nighters-->
 
 #
-## Hvorfor
-### Hvorfor skal OS2 tilbyde fælleskomponenter til vores projekter og produkter
-- Økonomi: Fælles vedligehold -> Lavere omkostninger
-- Fokus: Fælles distribueret vedligehold frigører ressourcer til at fokusere på forretningsbehov istedet for at skulle vedligeholde infrastruktur kode 
-- Kvalitetssikring: Mange flere øjne og flere faglige vinkler på videreudvikling og vedligehold.
+## Få vedligehold foræret!
+## 🎁
+Fælles vedligehold - Som at få 1000 nye kolleger
+
+#
+## Fokuser på forretningen!
+## 🎯
+###### _Frigør ressourcer til at fokusere på forretningsbehov og levere værdi - istedet for at skulle genopfinde og vedligeholde infrastruktur kode_ 
+
+#
+
+#
+
+##### Kvalitetssikring: Mange flere øjne og flere faglige vinkler på videreudvikling og vedligehold.
 - Strategisk: Os2 skal bidrage til at sikre vore kritiske fælles infrastruktur, ved at skære ned på antallet og gøre de restende mere robuste og transparente.
 
 ### Fordele og ulemper ved fælles komponenter:

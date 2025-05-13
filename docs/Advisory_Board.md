@@ -105,9 +105,4 @@ class: invert
 <hr>
 Rådgivning | Tekniske skabeloner | Løbende revision
 
-#
-<mark class='info'>
-content
-</mark>
-
 
