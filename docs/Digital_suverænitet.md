@@ -61,6 +61,19 @@ Specialiser dig i det du interesserer dig for  -->
 ## Next **steps**
 ![bg opacity:0.8](https://images.unsplash.com/photo-1516490180331-c4490d1ab5e5)
 
+
+
+#
+![bg brightness:0.4](https://images.pexels.com/photos/64149/crash-accident-collision-automobiles-64149.jpeg)
+## Lav flere fejl!
+##### Men **isoler** dem
+###### _i produktionsnære testinstanser_
+<!--Testmiljøer
+Fjern risikoen forbundet med fejl via isolation i produktionsnære testmiljøer
+*Test i sikre omgivelser, så fejl ikke påvirker drift.*
+Tal om fejlene og lær af dem
+*Skab en kultur hvor fejl ses som læring, ikke som fiasko.*
+-->
 #
 <!-- _header: Operator Pattern -->
 
@@ -72,12 +85,3 @@ Specialiser dig i det du interesserer dig for  -->
 
 
 
-#
-## Lav flere fejl!
-##### Men **isoler** dem
-###### _i produktionsnære testinstanser_
-<!--Fjern risikoen forbundet med fejl via isolation i produktionsnære testmiljøer
-*Test i sikre omgivelser, så fejl ikke påvirker drift.*
-Tal om fejlene og lær af dem
-*Skab en kultur hvor fejl ses som læring, ikke som fiasko.*
--->
