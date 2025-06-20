@@ -9,12 +9,7 @@ class:
 headingDivider: 1
 paginate: false
 ---
-# Hvad er software?
-![h:525px opacity:0.8](https://raw.githubusercontent.com/janhalen/os2-slides/main/docs/image/Digital_suver%C3%A6nitet/Software-flow-2025-06-19-061218.svg)
-<!-- Blød intro-->
-
-
-# Hvad er Digital **Suverænitet**
+# Digital **Suverænitet**
 ![bg opacity:0.9](https://images.pexels.com/photos/18510485/pexels-photo-18510485.jpeg)
 
 Ejerskab over:
@@ -24,10 +19,18 @@ Data + Processer + Kildekode
 Operationelle Exit strategier
 
 # 
+## **Software** Delivery Life Cycle
+![h:525px](https://raw.githubusercontent.com/janhalen/os2-slides/main/docs/image/Digital_suver%C3%A6nitet/Software-flow-2025-06-19-061218.svg)
+![bg brightness:0.7](https://images.pexels.com/photos/13027585/pexels-photo-13027585.jpeg)
+<!-- Blød intro - Bestanddele i at en applikation bliver til. Der er en forsimplet fremstilling baseret på manglende eller glemt indsigt-->
+
+
+# 
 ## Hvordan tager man ejerskab
 Lås op for et digitalt suverænt fundament 
 
 ![bg right blur:1px brightness:0.4](https://images.pexels.com/photos/5474292/pexels-photo-5474292.jpeg)
+<!-- Det er vigtigt at tage ejerskab med udgangspunkt i fundamentet og ikke blot den brugervendte applikation eller værktøjsstack>
 
 #
 ![bg brightness:0.4](https://images.pexels.com/photos/3735202/pexels-photo-3735202.jpeg)
