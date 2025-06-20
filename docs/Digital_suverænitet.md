@@ -12,11 +12,22 @@ paginate: false
 # Hvad er software?
 ![h:525px opacity:0.8](./image/Digital_suverænitet/Software-flow-2025-06-19-061218.svg)
 <!-- Blød intro-->
+
+
+# Hvad er Digital **Suverænitet**
+![bg brightness:0.7](https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/01/helms-deep.jpg)
+
+Ejerskab over:
+
+Data + Processer + Kildekode
+
+Operationelle Exit strategier
+
 # 
-## Et digitalt suverænt fundament 
+## Hvordan tager man ejerskab
+Lås op for et digitalt suverænt fundament 
 
 ![bg right blur:1px brightness:0.4](https://images.pexels.com/photos/5474292/pexels-photo-5474292.jpeg)
-###### _Hvordan kan vi nå at implementere digitalt suveræne tiltag, når vi skal passe vores drift?_
 
 #
 ![bg brightness:0.4](https://images.pexels.com/photos/3735202/pexels-photo-3735202.jpeg)
@@ -82,6 +93,3 @@ Tal om fejlene og lær af dem
 ##### Beskriv desired state
 ###### Implementer pull baseret tilstands-synkronisering 
 <!--- Operator pattern---> 
-
-
-
