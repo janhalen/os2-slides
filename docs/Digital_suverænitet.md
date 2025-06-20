@@ -10,7 +10,7 @@ headingDivider: 1
 paginate: false
 ---
 # Hvad er software?
-![h:525px opacity:0.8](./image/Digital_suverænitet/Software-flow-2025-06-19-061218.svg)
+![h:525px opacity:0.8](/docs/image/Digital_suverænitet/Software-flow-2025-06-19-061218.svg)
 <!-- Blød intro-->
 
 
