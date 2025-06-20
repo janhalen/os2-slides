@@ -10,12 +10,12 @@ headingDivider: 1
 paginate: false
 ---
 # Hvad er software?
-![h:525px opacity:0.8](/docs/image/Digital_suverænitet/Software-flow-2025-06-19-061218.svg)
+![h:525px opacity:0.8](../docs/image/Digital_suverænitet/Software-flow-2025-06-19-061218.svg)
 <!-- Blød intro-->
 
 
 # Hvad er Digital **Suverænitet**
-![bg brightness:0.7](https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/01/helms-deep.jpg)
+![bg opacity:0.8](https://images.pexels.com/photos/34223/mont-saint-michel-france-normandy-europe.jpg)
 
 Ejerskab over:
 
