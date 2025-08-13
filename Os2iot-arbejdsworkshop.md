@@ -15,15 +15,6 @@ paginate: false
 *Enterprise Architect OS²*
 <!-- _footer: "jan@os2.eu" -->
 
-
-
-<!--
-Bred erfaring med værdiskabelse fra både private og offentlige orgs.
-
-Jeg brænder for en mere åben og robust offentlig sektor
-
--->
-
 #
 
 <br>
@@ -43,7 +34,7 @@ Jeg brænder for en mere åben og robust offentlig sektor
 > #### *Hvordan kan vi designe vores system så det er mere **fremtidssikret** og **mindre sårbart** overfor forandringer?*
 
 #
-![bg blur:2px brightness:0.4](https://images.pexels.com/photos/7267500/pexels-photo-7267500.jpeg)
+![bg blur:2px center brightness:0.6](https://images.pexels.com/photos/209728/pexels-photo-209728.jpeg)
 
 
 1️⃣ - Invester i en [bæredygtig]() leverancemodel
