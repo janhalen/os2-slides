@@ -4,6 +4,10 @@ modified: 2025-09-23T08:31:11+02:00
 marp: true
 html: true
 footer: ![w:200 invert brightness:10 opacity:0.4](../img/OS2_logo_cmyk.svg)
+style: |
+  .small-text {
+    font-size: 0.55rem;
+  }
 theme: uncover
 transition: swipe
 headingDivider: 1
@@ -11,73 +15,79 @@ paginate: false
 
 ---
 #
-## ♻️
+
 <!-- class: invert -->
-<!-- header: 10 genbrugelige løsninger-->
-###
-#### **Automatisering af målinger på genbrugelighed**
-###### _baseret på genbrug af standarder_
+<!-- header: Health Analyzer PoC-->
+![bg brightness:0.7](https://images.pexels.com/photos/1662330/pexels-photo-1662330.jpeg)
+
+Automatiseret måling
+
+af genbrugelighed
+
+♻️
 
 #
-## 📝 Design 
-Genbrug af eksisterende komponenter
-Indbygget Transparens 
-Versionsstyret
-Indbygget, ensartet change management
+100% Upstream
+![bg brightness:0.7 left:73%](https://images.unsplash.com/photo-1603912699214-92627f304eb6)
+100% Open Source
+
+#
+![bg brightness:0.5](https://images.pexels.com/photos/4992658/pexels-photo-4992658.jpeg)
+
+> _Modern Data Stack in a Box_
+
+📦
+
+
+
+<p class="small-text">singer | meltano | dbt | duckdb | evidence </p>
+
 
 # 
-## :arrow_right_hook: Flow
-
-1. ▶️ Find URL til projekt repo
-2. ▶️ Anmod om at tilføje url til kildedokument
-3. ▶️ Samarbejdspartner gennemser og godkender
-
-###### Resten kører automatisk
+![bg brightness:0.3](https://images.pexels.com/photos/6023546/pexels-photo-6023546.jpeg)
+Digital Suveræn 
+Kildekode 
+& 
+Serverless hosting
 
 #
-## 📆 Roadmap
+##
+Målinger
+![bg brightness:0.7 left:58%](https://images.pexels.com/photos/5619064/pexels-photo-5619064.jpeg)
 
-Pre-PoC ▶️ PoC ▶️ Mvp (pre-release) ▶️ Release
+```
+
+✅ Kildekoden ligger i et offentligt repository
+
+✅ README-fil ekisiterer
+
+✅ Deklaration af en OSI-godkendte open source-licens
+
+✅ Antal af releases inden for det seneste år
+
+✅ Atal aktive bidragydere inden for de seneste 12 måneder
+
+✅ Antal bidrag pr. måned inden for de seneste 12 måneder
+
+✅ Antal åbne issues
+
+```
+
+###### [Genbrug af standardmetrikker](https://chaoss.community/kbtopic/all-metrics/)
 
 #
-#### ▶️ Pre poc stage
-Frivillige contributors
-Kun Github support
-###### 🎯 Mål: Demo af rapportering og et lille sæt målinger. 
+![bg left:58% brightness:0.9](https://images.pexels.com/photos/8395815/pexels-photo-8395815.jpeg)
+Sundheds rapport
+```
 
-# 
-#### ▶️ PoC
-Tovholder / Projektejer onboardes
-Enkelt Leverandør tilknyttes
-Flere målinger + Tilpasning af rapport udseende
-###### Mål: Projektejer afholder demos og indsamler af feedback. Iterative forbedringer.
+▶️ Find URL til projekt repo
 
-#
-#### ▶️ Mvp (Pre-release)
-Finpudsning og fejlrettelser.
-###### Mål: Krav til rapport opnået.
+▶️ Anmod om at tilføje repo-url til kildedokument
 
-#
-#### ▶️ Release: 
-Drift og Maintainer leverandør bliver tilknyttet.
-###### Mål: Indsamle erfaringer+data og planlægge næste faser i Roadmap op til næste release.
+▶️ Samarbejdspartner gennemser og godkender
 
-# Forudsætninger
+``` 
+<p class="small-text">Resten kører automatisk</p>
 
-Valg af digital suveræn Forge. Leje/Køb
+ 
 
-# 🏗️ Udviklingspotentiale
-
-Support for flere forges
-Support for flere metrics
-Data kan tjene som basis for katalog
-
-# 
-### 🕥 Estimater
-##### Pre-poc: 0 - 20 timer 
-##### ➕ 
-##### Poc-Mvp: 30-40 timer
-##### ➕
-##### Release: 60-70 timer
-
-<!-- 0 timer er under forudsætning af frivillige kræfter - ingen deadline -->
