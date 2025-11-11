@@ -4,10 +4,6 @@ modified: 2025-09-23T08:31:11+02:00
 marp: true
 html: true
 footer: ![w:200 invert brightness:10 opacity:0.4](../img/OS2_logo_cmyk.svg)
-style: |
-  .small-text {
-    font-size: 0.55rem;
-  }
 theme: uncover
 transition: swipe
 headingDivider: 1
@@ -28,19 +24,21 @@ af genbrugelighed
 
 #
 100% Upstream
-![bg brightness:0.7 left:73%](https://images.unsplash.com/photo-1603912699214-92627f304eb6)
+![bg brightness:0.7 left:58%](https://images.unsplash.com/photo-1603912699214-92627f304eb6)
 100% Open Source
 
 #
 ![bg brightness:0.5](https://images.pexels.com/photos/4992658/pexels-photo-4992658.jpeg)
 
 > _Modern Data Stack in a Box_
+<br>
+## 📦
+<br>
+<br>
 
-📦
-
-
-
-<p class="small-text">singer | meltano | dbt | duckdb | evidence </p>
+```
+ singer | meltano | dbt | duckdb | evidence
+```
 
 
 # 
@@ -73,11 +71,11 @@ Målinger
 
 ```
 
-###### [Genbrug af standardmetrikker](https://chaoss.community/kbtopic/all-metrics/)
+###### [Standardmetrikker](https://chaoss.community/kbtopic/all-metrics/)
 
 #
 ![bg left:58% brightness:0.9](https://images.pexels.com/photos/8395815/pexels-photo-8395815.jpeg)
-Sundheds rapport
+##### Sundheds rapport
 ```
 
 ▶️ Find URL til projekt repo
@@ -86,8 +84,11 @@ Sundheds rapport
 
 ▶️ Samarbejdspartner gennemser og godkender
 
+🤖 Resten kører automatisk
+
 ``` 
-<p class="small-text">Resten kører automatisk</p>
+###### [Eksempel](https://ecommerce.evidence.app/)
+
 
  
 
