@@ -90,12 +90,16 @@ Målinger
 ###### [Eksempel](https://ecommerce.evidence.app/)
 
 # One more thing
+<!-- header: " " -->
 <!-- _footer: " "-->
 ![bg grayscale:1 brightness:0.3 opacity:0.1](https://w.wallhaven.cc/full/1p/wallhaven-1p5z71.jpg)
 
 
 # **~~Free Beer~~**
+
 ![bg opacity:0.4](https://images.pexels.com/photos/5538252/pexels-photo-5538252.jpeg)
 
 # **Free Puppy!**
-![bg opacity:0.4](https://images.pexels.com/photos/5047572/pexels-photo-5047572.jpeg)
+<br><br><br><br><br><br><br>
+
+![bg opacity:0.4](https://images.pexels.com/photos/5047572/pexels-photo-5047572.jpeg)<br>
