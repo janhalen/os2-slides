@@ -23,30 +23,14 @@ af genbrugelighed
 ♻️
 
 #
-100% Upstream
-![bg brightness:0.7 left:58%](https://images.unsplash.com/photo-1603912699214-92627f304eb6)
-100% Open Source
+ ![bg brightness:0.7 left:58%](https://images.unsplash.com/photo-1603912699214-92627f304eb6)
+ ✅ Genbrug
 
-#
-![bg brightness:0.5](https://images.pexels.com/photos/4992658/pexels-photo-4992658.jpeg)
+ ✅ Open Source
 
-> _Modern Data Stack in a Box_
-<br>
-## 📦
-<br>
-<br>
+ ✅ Open standards
 
-```
- singer | meltano | dbt | duckdb | evidence
-```
-
-
-# 
-![bg brightness:0.3](https://images.pexels.com/photos/6023546/pexels-photo-6023546.jpeg)
-Digital Suveræn 
-Kildekode 
-& 
-Serverless hosting
+ ✅ Digital Suveræn
 
 #
 ##
@@ -71,8 +55,6 @@ Målinger
 
 ```
 
-###### [Standardmetrikker](https://chaoss.community/kbtopic/all-metrics/)
-
 #
 ![bg left:58% brightness:0.9](https://images.pexels.com/photos/8395815/pexels-photo-8395815.jpeg)
 ##### Sundheds rapport
@@ -86,20 +68,17 @@ Målinger
 
 🤖 Resten kører automatisk
 
-``` 
-###### [Eksempel](https://ecommerce.evidence.app/)
+```
 
-# One more thing
-<!-- header: " " -->
-<!-- _footer: " "-->
-![bg grayscale:1 brightness:0.3 opacity:0.1](https://w.wallhaven.cc/full/1p/wallhaven-1p5z71.jpg)
+#
+![bg brightness:0.5](https://images.pexels.com/photos/4992658/pexels-photo-4992658.jpeg)
 
+> _Modern Data Stack in a Box_
+<br>
+## 📦
+<br>
+<br>
 
-# **~~Free Beer~~**
-
-![bg opacity:0.4](https://images.pexels.com/photos/5538252/pexels-photo-5538252.jpeg)
-
-# **Free Puppy!**
-<br><br><br><br><br><br><br>
-
-![bg opacity:0.4](https://images.pexels.com/photos/5047572/pexels-photo-5047572.jpeg)<br>
+```
+ singer | meltano | dbt | duckdb | evidence
+```
