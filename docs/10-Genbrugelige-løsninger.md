@@ -1,6 +1,7 @@
 ---
 created: 2025-09-23T07:45:23+02:00
 modified: 2025-09-23T08:31:11+02:00
+url: https://janhalen.github.io/os2-slides/docs/10-Genbrugelige-l%C3%B8sninger.html
 marp: true
 html: true
 footer: ![w:200 invert brightness:10 opacity:0.4](../img/OS2_logo_cmyk.svg)
@@ -8,6 +9,7 @@ theme: uncover
 transition: swipe
 headingDivider: 1
 paginate: false
+
 
 ---
 #
